@@ -18,11 +18,10 @@
       <pubDate>Fri, 16 Nov 2018 00:00:00 +0100</pubDate>
       
       <guid>/teaching/double_cursus_analysis_algebre/</guid>
-      <description>Course :
- Physical problem example : two weights bound with a spring. System of two bounded ordinary differntial equations (EDO). Solution with no linear algebra general theory.
- Linear algebra discovering : vectors, matrices, basis operations : sum, product, trace, determinant, inverse. Notions of free family. Diagonalisation.
- Two applied examples :
- Square inverse problem (as much equations as variables) : solution with matrix inversion. Solve a system of coupled linear EDO thanks to diagonalisation.</description>
+      <description>Course:  Physical problem example: two weights bound with a spring. System of two bounded ordinary differntial equations (EDO). Solution with no linear algebra general theory.
+ Linear algebra discovering: vectors, matrices, basis operations: sum, product, trace, determinant, inverse. Notions of free family. Diagonalisation.
+ Two applied examples:
+ Square inverse problem (as much equations as variables): solution with matrix inversion. Solve a system of coupled linear EDO thanks to diagonalisation.</description>
     </item>
     
   </channel>

@@ -21,7 +21,7 @@ tags = ["French","Python","Maths","Analysis"]
   focal_point = "Smart"
 +++
 
-**Course**:
+# Course:
 
    - Introduction to noisy and uncertain models.
    
@@ -33,7 +33,7 @@ tags = ["French","Python","Maths","Analysis"]
 
 [Analysis Course](/html/lorenzo_double_cursus_SOURCE/Ecole_Sante_Sciences.pdf)
 
-**Practical work, Python**:
+# Practical work, Python:
 
   - General introduction to the language and its main data variable structures plus example of bivariate scatterplot visualisation.
 

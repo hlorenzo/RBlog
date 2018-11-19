@@ -21,7 +21,7 @@ tags = ["French","Python","Maths","Probability","Statistics"]
   focal_point = "Smart"
 +++
 
-**Course**:
+# Course:
 
    - Introduction to statistical language and notions such as *event*, *incompatibility* or *independancy*.
    
@@ -35,11 +35,7 @@ tags = ["French","Python","Maths","Probability","Statistics"]
 
 [Analysis Course](/html/lorenzo_double_cursus_SOURCE/Ecole_Sante_Sciences_III.pdf)
 
-**Practical work, Python**:
-
-  - General introduction to the language and its main data variable structures plus example of bivariate scatterplot visualisation.
-
-[Python beginning](/html/lorenzo_double_cursus_SOURCE/Programmation Ecole Sante Sciences - analyse.html)
+# Practical work, Python:
 
   - **Statistical tests and multiplicity**: Unitary tests, boxplot visualisations, Bonferroni and Benjamini-Hochberg corrections. 
 

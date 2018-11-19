@@ -18,15 +18,13 @@
       <pubDate>Fri, 16 Nov 2018 00:00:00 +0100</pubDate>
       
       <guid>/teaching/double_cursus_analysis/</guid>
-      <description>Course :
- Introduction to noisy and uncertain models.
+      <description>Course:  Introduction to noisy and uncertain models.
  Recalls on function analysis, derivation rules and extrematlity conditions. Basis functions (exponential, logarithm, trigonometric).
  Introduction to Ordinary Differential Equations (ODE).
- Case study : The fall of an apple.
+ Case study: The fall of an apple.
   Analysis Course
-Practical work, Python :
- General introduction to the language and its main data variable structures plus example of bivariate scatterplot visualisation.  Python beginning
- Gradient Descent : A ight study of the algorithm for a real valued function of a single real variable and presentation of the performances.</description>
+Practical work, Python:  General introduction to the language and its main data variable structures plus example of bivariate scatterplot visualisation.  Python beginning
+ Gradient Descent: A ight study of the algorithm for a real valued function of a single real variable and presentation of the performances.</description>
     </item>
     
     <item>
@@ -35,11 +33,10 @@ Practical work, Python :
       <pubDate>Fri, 16 Nov 2018 00:00:00 +0100</pubDate>
       
       <guid>/teaching/double_cursus_analysis_algebre/</guid>
-      <description>Course :
- Physical problem example : two weights bound with a spring. System of two bounded ordinary differntial equations (EDO). Solution with no linear algebra general theory.
- Linear algebra discovering : vectors, matrices, basis operations : sum, product, trace, determinant, inverse. Notions of free family. Diagonalisation.
- Two applied examples :
- Square inverse problem (as much equations as variables) : solution with matrix inversion. Solve a system of coupled linear EDO thanks to diagonalisation.</description>
+      <description>Course:  Physical problem example: two weights bound with a spring. System of two bounded ordinary differntial equations (EDO). Solution with no linear algebra general theory.
+ Linear algebra discovering: vectors, matrices, basis operations: sum, product, trace, determinant, inverse. Notions of free family. Diagonalisation.
+ Two applied examples:
+ Square inverse problem (as much equations as variables): solution with matrix inversion. Solve a system of coupled linear EDO thanks to diagonalisation.</description>
     </item>
     
     <item>
@@ -48,16 +45,15 @@ Practical work, Python :
       <pubDate>Fri, 16 Nov 2018 00:00:00 +0100</pubDate>
       
       <guid>/teaching/double_cursus_stats/</guid>
-      <description>Course :
- Introduction to statistical language and notions such as event, incompatibility or independancy.
+      <description>Course:  Introduction to statistical language and notions such as event, incompatibility or independancy.
  Enumerations and Bayes formula
  Classical estimators (mean, variance)
  Usual discret and continuous laws.
  An introduction to the statistical tests.
   Analysis Course
-Practical work, Python :
- General introduction to the language and its main data variable structures plus example of bivariate scatterplot visualisation.  Python beginning
- Statistical tests and multiplicity : Unitary tests, boxplot visualisations, Bonferroni and Benjamini-Hochberg corrections.</description>
+Practical work, Python:  Statistical tests and multiplicity: Unitary tests, boxplot visualisations, Bonferroni and Benjamini-Hochberg corrections.  Tests
+ Linear regression: Python linear regression tools.  Tests
+ Newton-Raphson algorithm for likelihood maximization: Study of this algorithm for a real valued function depending on 2 variables.</description>
     </item>
     
   </channel>

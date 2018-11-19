@@ -16,7 +16,9 @@
       <pubDate>Fri, 16 Nov 2018 00:00:00 +0100</pubDate>
       
       <guid>/teaching/double_cursus_analysis/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Course&lt;/strong&gt; :&lt;/p&gt;
+      <description>
+
+&lt;h1 id=&#34;course&#34;&gt;Course:&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Introduction to noisy and uncertain models.&lt;/p&gt;&lt;/li&gt;
@@ -25,12 +27,12 @@
 
 &lt;li&gt;&lt;p&gt;Introduction to Ordinary Differential Equations (ODE).&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Case study : The fall of an apple.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Case study: The fall of an apple.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;a href=&#34;/html/lorenzo_double_cursus_SOURCE/Ecole_Sante_Sciences.pdf&#34;&gt;Analysis Course&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Practical work, Python&lt;/strong&gt; :&lt;/p&gt;
+&lt;h1 id=&#34;practical-work-python&#34;&gt;Practical work, Python:&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;General introduction to the language and its main data variable structures plus example of bivariate scatterplot visualisation.&lt;/li&gt;
@@ -39,7 +41,7 @@
 &lt;p&gt;&lt;a href=&#34;/html/lorenzo_double_cursus_SOURCE/Programmation Ecole Sante Sciences - analyse.html&#34;&gt;Python beginning&lt;/a&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Gradient Descent&lt;/strong&gt; : A ight study of the algorithm for a real valued function of a single real variable and presentation of the performances.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Gradient Descent&lt;/strong&gt;: A ight study of the algorithm for a real valued function of a single real variable and presentation of the performances.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;a href=&#34;/html/lorenzo_double_cursus_SOURCE/Double_cursus_td1_correction.html&#34;&gt;Gradient descent&lt;/a&gt;&lt;/p&gt;
@@ -52,27 +54,27 @@
       <pubDate>Fri, 16 Nov 2018 00:00:00 +0100</pubDate>
       
       <guid>/teaching/double_cursus_analysis_algebre/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Course&lt;/strong&gt; :&lt;/p&gt;
+      <description>
+
+&lt;h1 id=&#34;course&#34;&gt;Course:&lt;/h1&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Physical problem example : two weights bound with a spring. System of two bounded ordinary differntial equations (&lt;strong&gt;EDO&lt;/strong&gt;). Solution with no linear algebra general theory.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Physical problem example: two weights bound with a spring. System of two bounded ordinary differntial equations (&lt;strong&gt;EDO&lt;/strong&gt;). Solution with no linear algebra general theory.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Linear algebra discovering : vectors, matrices, basis operations : sum, product, trace, determinant, inverse. Notions of &lt;em&gt;free family&lt;/em&gt;. Diagonalisation.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Linear algebra discovering: vectors, matrices, basis operations: sum, product, trace, determinant, inverse. Notions of &lt;em&gt;free family&lt;/em&gt;. Diagonalisation.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Two applied examples :&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;Two applied examples:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Square inverse problem (as much equations as variables) : solution with matrix inversion.&lt;/li&gt;
+&lt;li&gt;Square inverse problem (as much equations as variables): solution with matrix inversion.&lt;/li&gt;
 &lt;li&gt;Solve a system of coupled linear &lt;strong&gt;EDO&lt;/strong&gt; thanks to diagonalisation.
-&lt;br /&gt;
-&lt;br /&gt;
 &lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;a href=&#34;/html/lorenzo_double_cursus_SOURCE/Ecole_Sante_Sciences_II.pdf&#34;&gt;Linear Algebra Course&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Practical work, Python&lt;/strong&gt; :&lt;/p&gt;
+&lt;h1 id=&#34;practical-work-python&#34;&gt;Practical work, Python:&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;General formalism over Python for vectors and matrices.&lt;/li&gt;
@@ -83,7 +85,7 @@
 
 &lt;li&gt;&lt;p&gt;Eigen-space decomposition.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Numerical solution of the problem : two weights bound with a spring.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Numerical solution of the problem: two weights bound with a spring.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;a href=&#34;/html/lorenzo_double_cursus_SOURCE/Double_cursus_td1_correction.html&#34;&gt;Gradient descent&lt;/a&gt;&lt;/p&gt;
@@ -96,7 +98,9 @@
       <pubDate>Fri, 16 Nov 2018 00:00:00 +0100</pubDate>
       
       <guid>/teaching/double_cursus_stats/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Course&lt;/strong&gt; :&lt;/p&gt;
+      <description>
+
+&lt;h1 id=&#34;course&#34;&gt;Course:&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Introduction to statistical language and notions such as &lt;em&gt;event&lt;/em&gt;, &lt;em&gt;incompatibility&lt;/em&gt; or &lt;em&gt;independancy&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
@@ -112,28 +116,22 @@
 
 &lt;p&gt;&lt;a href=&#34;/html/lorenzo_double_cursus_SOURCE/Ecole_Sante_Sciences_III.pdf&#34;&gt;Analysis Course&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Practical work, Python&lt;/strong&gt; :&lt;/p&gt;
+&lt;h1 id=&#34;practical-work-python&#34;&gt;Practical work, Python:&lt;/h1&gt;
 
 &lt;ul&gt;
-&lt;li&gt;General introduction to the language and its main data variable structures plus example of bivariate scatterplot visualisation.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;/html/lorenzo_double_cursus_SOURCE/Programmation Ecole Sante Sciences - analyse.html&#34;&gt;Python beginning&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Statistical tests and multiplicity&lt;/strong&gt; : Unitary tests, boxplot visualisations, Bonferroni and Benjamini-Hochberg corrections.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Statistical tests and multiplicity&lt;/strong&gt;: Unitary tests, boxplot visualisations, Bonferroni and Benjamini-Hochberg corrections.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;a href=&#34;/html/lorenzo_double_cursus_SOURCE/tests%20-%20correction.html&#34;&gt;Tests&lt;/a&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Linear regression&lt;/strong&gt; : Python linear regression tools.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Linear regression&lt;/strong&gt;: Python linear regression tools.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;a href=&#34;/html/lorenzo_double_cursus_SOURCE/Regression%20lineaire%20-%20correction.html&#34;&gt;Tests&lt;/a&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Newton-Raphson algorithm for likelihood maximization&lt;/strong&gt; : Study of this algorithm for a real valued function depending on 2 variables.
+&lt;li&gt;&lt;strong&gt;Newton-Raphson algorithm for likelihood maximization&lt;/strong&gt;: Study of this algorithm for a real valued function depending on 2 variables.
 &lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 

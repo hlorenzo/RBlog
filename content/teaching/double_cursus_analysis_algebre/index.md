@@ -21,7 +21,7 @@ tags = ["French","Python","Maths","Linear Algebra"]
   focal_point = "Smart"
 +++
 
-**Course**:
+# Course:
 
    - Physical problem example: two weights bound with a spring. System of two bounded ordinary differntial equations (**EDO**). Solution with no linear algebra general theory.
    
@@ -32,11 +32,9 @@ tags = ["French","Python","Maths","Linear Algebra"]
     - Square inverse problem (as much equations as variables): solution with matrix inversion.
     - Solve a system of coupled linear **EDO** thanks to diagonalisation.
     
-    
-    
 [Linear Algebra Course](/html/lorenzo_double_cursus_SOURCE/Ecole_Sante_Sciences_II.pdf)
 
-**Practical work, Python**:
+# Practical work, Python:
 
   - General formalism over Python for vectors and matrices. 
   - How can we do the *loops* ?
