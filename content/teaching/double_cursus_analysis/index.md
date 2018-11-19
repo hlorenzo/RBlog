@@ -31,14 +31,10 @@ tags = ["French","Python","Maths","Analysis"]
 
    - Case study: The fall of an apple.
 
-[Analysis Course](/html/lorenzo_double_cursus_SOURCE/Ecole_Sante_Sciences.pdf)
+[<i class="fa fa-file-pdf fa-2x"></i>](/html/lorenzo_double_cursus_SOURCE/Ecole_Sante_Sciences.pdf)
 
 # Practical work, Python:
 
-  - General introduction to the language and its main data variable structures plus example of bivariate scatterplot visualisation.
+  - General introduction to the language and its main data variable structures plus example of bivariate scatterplot visualisation [<i class="fa fa-book-open fa-2x"></i>](/html/lorenzo_double_cursus_SOURCE/Programmation Ecole Sante Sciences - analyse.html)
 
-[Python beginning](/html/lorenzo_double_cursus_SOURCE/Programmation Ecole Sante Sciences - analyse.html)
-
-  - **Gradient Descent**: A ight study of the algorithm for a real valued function of a single real variable and presentation of the performances.
-
-[Gradient descent](/html/lorenzo_double_cursus_SOURCE/Double_cursus_td1_correction.html)
+  - **Gradient Descent**: A ight study of the algorithm for a real valued function of a single real variable and presentation of the performances [<i class="fa fa-book-open fa-2x"></i>](/html/lorenzo_double_cursus_SOURCE/Double_cursus_td1_correction.html)

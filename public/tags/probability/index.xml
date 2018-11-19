@@ -23,10 +23,10 @@
  Classical estimators (mean, variance)
  Usual discret and continuous laws.
  An introduction to the statistical tests.
-  Analysis Course
-Practical work, Python:  Statistical tests and multiplicity: Unitary tests, boxplot visualisations, Bonferroni and Benjamini-Hochberg corrections.  Tests
- Linear regression: Python linear regression tools.  Tests
- Newton-Raphson algorithm for likelihood maximization: Study of this algorithm for a real valued function depending on 2 variables.</description>
+  
+Practical work, Python:  Statistical tests and multiplicity: Unitary tests, boxplot visualisations, Bonferroni and Benjamini-Hochberg corrections 
+ Linear regression: Python linear regression tools 
+ Newton-Raphson algorithm for likelihood maximization: Study of this algorithm for a real valued function depending on 2 variables</description>
     </item>
     
   </channel>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Algebra on </title>
+    <link>/tags/algebra/</link>
+    <description>Recent content in Algebra on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 16 Nov 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/algebra/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Maths and linear algebra</title>
+      <link>/teaching/double_cursus_analysis_algebre/</link>
+      <pubDate>Fri, 16 Nov 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/teaching/double_cursus_analysis_algebre/</guid>
+      <description>Course:  Physical problem example: two weights bound with a spring. System of two bounded ordinary differntial equations (EDO). Solution with no linear algebra general theory.
+ Linear algebra discovering: vectors, matrices, basis operations: sum, product, trace, determinant, inverse. Notions of free family. Diagonalisation.
+ Two applied examples:
+ Square inverse problem (as much equations as variables): solution with matrix inversion. Solve a system of coupled linear EDO thanks to diagonalisation.</description>
+    </item>
+    
+  </channel>
+</rss>

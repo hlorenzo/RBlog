@@ -5,7 +5,7 @@ date = 2018-11-16T00:00:00
 
 summary = "Mathematical courses designed to fit to French second year medical students of the *Double Cursus Sante Sciences* expecting strong mathematical bases."
 
-tags = ["French","Python","Maths","Linear Algebra"]
+tags = ["French","Python","Maths","Algebra"]
 
 # Optional external URL for project (replaces project detail page).
 # external_link = "static/html/lorenzo_double_cursus_SOURCE/main.html"
@@ -32,7 +32,7 @@ tags = ["French","Python","Maths","Linear Algebra"]
     - Square inverse problem (as much equations as variables): solution with matrix inversion.
     - Solve a system of coupled linear **EDO** thanks to diagonalisation.
     
-[Linear Algebra Course](/html/lorenzo_double_cursus_SOURCE/Ecole_Sante_Sciences_II.pdf)
+[<i class="fa fa-file-pdf fa-2x"></i>](/html/lorenzo_double_cursus_SOURCE/Ecole_Sante_Sciences_II.pdf)
 
 # Practical work, Python:
 
@@ -45,4 +45,4 @@ tags = ["French","Python","Maths","Linear Algebra"]
   
   - Numerical solution of the problem: two weights bound with a spring.
 
-[Gradient descent](/html/lorenzo_double_cursus_SOURCE/Double_cursus_td1_correction.html)
+[<i class="fa fa-book-open fa-2x"></i>](/html/lorenzo_double_cursus_SOURCE/Double_cursus_td1_correction.html)

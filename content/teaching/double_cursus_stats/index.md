@@ -33,18 +33,13 @@ tags = ["French","Python","Maths","Probability","Statistics"]
    
    - An introduction to the statistical tests.
 
-[Analysis Course](/html/lorenzo_double_cursus_SOURCE/Ecole_Sante_Sciences_III.pdf)
+[<i class="fa fa-file-pdf fa-2x"></i>](/html/lorenzo_double_cursus_SOURCE/Ecole_Sante_Sciences_III.pdf)
 
 # Practical work, Python:
 
-  - **Statistical tests and multiplicity**: Unitary tests, boxplot visualisations, Bonferroni and Benjamini-Hochberg corrections. 
+  - **Statistical tests and multiplicity**: Unitary tests, boxplot visualisations, Bonferroni and Benjamini-Hochberg corrections
+[<i class="fa fa-book-open fa-2x"></i>](/html/lorenzo_double_cursus_SOURCE/tests%20-%20correction.html)
 
-[Tests](/html/lorenzo_double_cursus_SOURCE/tests%20-%20correction.html)
+  - **Linear regression**: Python linear regression tools [<i class="fa fa-book-open fa-2x"></i>](/html/lorenzo_double_cursus_SOURCE/Regression%20lineaire%20-%20correction.html)
 
-  - **Linear regression**: Python linear regression tools. 
-
-[Tests](/html/lorenzo_double_cursus_SOURCE/Regression%20lineaire%20-%20correction.html)
-
-  - **Newton-Raphson algorithm for likelihood maximization**: Study of this algorithm for a real valued function depending on 2 variables.
-  
-[Maximum likelihood estimation via Newton-Raphson](/html/lorenzo_double_cursus_SOURCE/vraisemblance_newton_raphson.html) 
+  - **Newton-Raphson algorithm for likelihood maximization**: Study of this algorithm for a real valued function depending on 2 variables [<i class="fa fa-book-open fa-2x"></i>](/html/lorenzo_double_cursus_SOURCE/vraisemblance_newton_raphson.html) 
