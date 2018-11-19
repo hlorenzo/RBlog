@@ -14,22 +14,6 @@
     
     <item>
       <title>Statistics and Probability</title>
-      <link>/projects/double_cursus_stats/</link>
-      <pubDate>Fri, 16 Nov 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/projects/double_cursus_stats/</guid>
-      <description>Overview The Health and Science is established since 2107 and proposes to the students of second year medical studies, pharmacology and odontology an early formation to research.
-Course  Introduction to statistical language and notions such as event, incompatibility or independancy.
- Enumerations and Bayes formula
- Classical estimators (mean, variance)
- Usual discret and continuous laws.
- An introduction to the statistical tests.
-  
-Practical work on Python  Statistical tests and multiplicity: Unitary tests, boxplot visualisations, Bonferroni and Benjamini-Hochberg corrections</description>
-    </item>
-    
-    <item>
-      <title>Statistics and Probability</title>
       <link>/teaching/double_cursus_stats/</link>
       <pubDate>Fri, 16 Nov 2018 00:00:00 +0100</pubDate>
       
