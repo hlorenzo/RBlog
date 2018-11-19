@@ -11,24 +11,6 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Systems Vaccinology Identifies an Early Innate Immune Signature as a Correlate of Antibody Responses to the Ebola Vaccine rVSV-ZEBOV</title>
-      <link>/publication/ebola_cell/</link>
-      <pubDate>Mon, 19 Nov 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/publication/ebola_cell/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Une PLS multivoie parcimonieuse avec observations manquantes pour données hétérogènes</title>
-      <link>/publication/jds_2018/</link>
-      <pubDate>Mon, 19 Nov 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/publication/jds_2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Maths and function analysis</title>
       <link>/teaching/double_cursus_analysis/</link>
       <pubDate>Fri, 16 Nov 2018 00:00:00 +0100</pubDate>
@@ -184,25 +166,39 @@
     </item>
     
     <item>
-      <title>Multiway high-dimensional lasso-penalized analysis with imputation of missing data applied to postgenomic data in an Ebola vaccine trial</title>
-      <link>/talk/example/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <title>Une PLS multivoie parcimonieuse avec observations manquantes pour données hétérogènes</title>
+      <link>/publication/jds_2018/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
       
-      <guid>/talk/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;p&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/p&gt;
-
-&lt;/div&gt;
-
-
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s &lt;em&gt;Slides&lt;/em&gt; feature and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <guid>/publication/jds_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Une PLS multivoie parcimonieuse avec observations manquantes pour données hétérogènes</title>
+      <link>/talk/jds_2018/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/talk/jds_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiway high-dimensional lasso-penalized analysis with imputation of missing data applied to postgenomic data in an Ebola vaccine trial</title>
+      <link>/talk/smpgd_2018/</link>
+      <pubDate>Fri, 12 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/talk/smpgd_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systems Vaccinology Identifies an Early Innate Immune Signature as a Correlate of Antibody Responses to the Ebola Vaccine rVSV-ZEBOV</title>
+      <link>/publication/ebola_cell/</link>
+      <pubDate>Tue, 29 Aug 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/ebola_cell/</guid>
+      <description></description>
     </item>
     
     <item>
