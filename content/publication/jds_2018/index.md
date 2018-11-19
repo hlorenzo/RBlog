@@ -40,15 +40,14 @@ selected = true
 tags = []
 
 # Links (optional).
-url_pdf = "https://www.cell.com/cell-reports/pdfExtended/S2211-1247(17)31115-4"
-url_source = "https://www.cell.com/cell-reports/fulltext/S2211-1247(17)31115-4"
+url_pdf = "pdf/jds_2018.pdf"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = "10.1016/j.celrep.2017.08.023"
+#doi = "10.1016/j.celrep.2017.08.023"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
