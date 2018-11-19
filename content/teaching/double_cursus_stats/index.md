@@ -21,7 +21,11 @@ tags = ["French","Python","Maths","Probability","Statistics"]
   focal_point = "Smart"
 +++
 
-# Course:
+# Overview
+
+The [Health and Science](https://www.u-bordeaux.fr/Actualites/De-la-formation/Ecole-sante-sciences-un-parcours-d-excellence) is established since 2107 and proposes to the students of second year medical studies, pharmacology and odontology an early formation to research.
+
+# Course
 
    - Introduction to statistical language and notions such as *event*, *incompatibility* or *independancy*.
    
@@ -35,7 +39,7 @@ tags = ["French","Python","Maths","Probability","Statistics"]
 
 [<i class="fa fa-file-pdf fa-2x"></i>](/html/lorenzo_double_cursus_SOURCE/Ecole_Sante_Sciences_III.pdf)
 
-# Practical work, Python:
+# Practical work on Python
 
   - **Statistical tests and multiplicity**: Unitary tests, boxplot visualisations, Bonferroni and Benjamini-Hochberg corrections
 [<i class="fa fa-book-open fa-2x"></i>](/html/lorenzo_double_cursus_SOURCE/tests%20-%20correction.html)

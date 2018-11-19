@@ -18,13 +18,11 @@
       <pubDate>Fri, 16 Nov 2018 00:00:00 +0100</pubDate>
       
       <guid>/teaching/double_cursus_analysis/</guid>
-      <description>Course:  Introduction to noisy and uncertain models.
+      <description>Overview The Health and Science is established since 2107 and proposes to the students of second year medical studies, pharmacology and odontology an early formation to research.
+Current Course  Introduction to noisy and uncertain models.
  Recalls on function analysis, derivation rules and extrematlity conditions. Basis functions (exponential, logarithm, trigonometric).
  Introduction to Ordinary Differential Equations (ODE).
- Case study: The fall of an apple.
-  
-Practical work, Python:  General Introduction: The language, its main data variable structures and an example of bivariate scatterplot visualisation 
- Gradient Descent: A light study of the algorithm for a real valued function of a single real variable and presentation of the performances</description>
+ Case study: The fall of an apple.</description>
     </item>
     
     <item>
@@ -33,10 +31,9 @@ Practical work, Python:  General Introduction: The language, its main data varia
       <pubDate>Fri, 16 Nov 2018 00:00:00 +0100</pubDate>
       
       <guid>/teaching/double_cursus_analysis_algebre/</guid>
-      <description>Course:  Physical problem example: two weights bound with a spring. System of two bounded ordinary differntial equations (EDO). Solution with no linear algebra general theory.
- Linear algebra discovering: vectors, matrices, basis operations: sum, product, trace, determinant, inverse. Notions of free family. Diagonalisation.
- Two applied examples:
- Square inverse problem (as much equations as variables): solution with matrix inversion. Solve a system of coupled linear EDO thanks to diagonalisation.</description>
+      <description>Overview The Health and Science is established since 2107 and proposes to the students of second year medical studies, pharmacology and odontology an early formation to research.
+Course  Physical problem example: two weights bound with a spring. System of two bounded ordinary differntial equations (EDO). Solution with no linear algebra general theory.
+ Linear algebra discovering: vectors, matrices, basis operations: sum, product, trace, determinant, inverse. Notions of free family.</description>
     </item>
     
     <item>
@@ -45,15 +42,14 @@ Practical work, Python:  General Introduction: The language, its main data varia
       <pubDate>Fri, 16 Nov 2018 00:00:00 +0100</pubDate>
       
       <guid>/teaching/double_cursus_stats/</guid>
-      <description>Course:  Introduction to statistical language and notions such as event, incompatibility or independancy.
+      <description>Overview The Health and Science is established since 2107 and proposes to the students of second year medical studies, pharmacology and odontology an early formation to research.
+Course  Introduction to statistical language and notions such as event, incompatibility or independancy.
  Enumerations and Bayes formula
  Classical estimators (mean, variance)
  Usual discret and continuous laws.
  An introduction to the statistical tests.
   
-Practical work, Python:  Statistical tests and multiplicity: Unitary tests, boxplot visualisations, Bonferroni and Benjamini-Hochberg corrections 
- Linear regression: Python linear regression tools 
- Newton-Raphson algorithm for likelihood maximization: Study of this algorithm for a real valued function depending on 2 variables</description>
+Practical work on Python  Statistical tests and multiplicity: Unitary tests, boxplot visualisations, Bonferroni and Benjamini-Hochberg corrections</description>
     </item>
     
   </channel>

@@ -21,7 +21,11 @@ tags = ["French","Python","Maths","Analysis"]
   focal_point = "Smart"
 +++
 
-# Course:
+# Overview
+
+The [Health and Science](https://www.u-bordeaux.fr/Actualites/De-la-formation/Ecole-sante-sciences-un-parcours-d-excellence) is established since 2107 and proposes to the students of second year medical studies, pharmacology and odontology an early formation to research.
+
+# Current Course
 
    - Introduction to noisy and uncertain models.
    
@@ -33,7 +37,7 @@ tags = ["French","Python","Maths","Analysis"]
 
 [<i class="fa fa-file-pdf fa-2x"></i>](/html/lorenzo_double_cursus_SOURCE/Ecole_Sante_Sciences.pdf)
 
-# Practical work, Python:
+# Practical work on Python
 
   - **General Introduction**: The language, its main data variable structures and an example of bivariate scatterplot visualisation [<i class="fa fa-book-open fa-2x"></i>](/html/lorenzo_double_cursus_SOURCE/Programmation Ecole Sante Sciences - analyse.html)
 

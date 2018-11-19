@@ -18,7 +18,11 @@
       <guid>/teaching/double_cursus_analysis/</guid>
       <description>
 
-&lt;h1 id=&#34;course&#34;&gt;Course:&lt;/h1&gt;
+&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;
+
+&lt;p&gt;The &lt;a href=&#34;https://www.u-bordeaux.fr/Actualites/De-la-formation/Ecole-sante-sciences-un-parcours-d-excellence&#34; target=&#34;_blank&#34;&gt;Health and Science&lt;/a&gt; is established since 2107 and proposes to the students of second year medical studies, pharmacology and odontology an early formation to research.&lt;/p&gt;
+
+&lt;h1 id=&#34;current-course&#34;&gt;Current Course&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Introduction to noisy and uncertain models.&lt;/p&gt;&lt;/li&gt;
@@ -32,7 +36,7 @@
 
 &lt;p&gt;&lt;a href=&#34;/html/lorenzo_double_cursus_SOURCE/Ecole_Sante_Sciences.pdf&#34;&gt;&lt;i class=&#34;fa fa-file-pdf fa-2x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;h1 id=&#34;practical-work-python&#34;&gt;Practical work, Python:&lt;/h1&gt;
+&lt;h1 id=&#34;practical-work-on-python&#34;&gt;Practical work on Python&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;General Introduction&lt;/strong&gt;: The language, its main data variable structures and an example of bivariate scatterplot visualisation &lt;a href=&#34;/html/lorenzo_double_cursus_SOURCE/Programmation Ecole Sante Sciences - analyse.html&#34;&gt;&lt;i class=&#34;fa fa-book-open fa-2x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
@@ -50,7 +54,11 @@
       <guid>/teaching/double_cursus_analysis_algebre/</guid>
       <description>
 
-&lt;h1 id=&#34;course&#34;&gt;Course:&lt;/h1&gt;
+&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;
+
+&lt;p&gt;The &lt;a href=&#34;https://www.u-bordeaux.fr/Actualites/De-la-formation/Ecole-sante-sciences-un-parcours-d-excellence&#34; target=&#34;_blank&#34;&gt;Health and Science&lt;/a&gt; is established since 2107 and proposes to the students of second year medical studies, pharmacology and odontology an early formation to research.&lt;/p&gt;
+
+&lt;h1 id=&#34;course&#34;&gt;Course&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Physical problem example: two weights bound with a spring. System of two bounded ordinary differntial equations (&lt;strong&gt;EDO&lt;/strong&gt;). Solution with no linear algebra general theory.&lt;/p&gt;&lt;/li&gt;
@@ -68,7 +76,7 @@
 
 &lt;p&gt;&lt;a href=&#34;/html/lorenzo_double_cursus_SOURCE/Ecole_Sante_Sciences_II.pdf&#34;&gt;&lt;i class=&#34;fa fa-file-pdf fa-2x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;h1 id=&#34;practical-work-python&#34;&gt;Practical work, Python:&lt;/h1&gt;
+&lt;h1 id=&#34;practical-work-on-python&#34;&gt;Practical work on Python&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;General formalism over Python for vectors and matrices.&lt;/li&gt;
@@ -94,7 +102,11 @@
       <guid>/teaching/double_cursus_stats/</guid>
       <description>
 
-&lt;h1 id=&#34;course&#34;&gt;Course:&lt;/h1&gt;
+&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;
+
+&lt;p&gt;The &lt;a href=&#34;https://www.u-bordeaux.fr/Actualites/De-la-formation/Ecole-sante-sciences-un-parcours-d-excellence&#34; target=&#34;_blank&#34;&gt;Health and Science&lt;/a&gt; is established since 2107 and proposes to the students of second year medical studies, pharmacology and odontology an early formation to research.&lt;/p&gt;
+
+&lt;h1 id=&#34;course&#34;&gt;Course&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Introduction to statistical language and notions such as &lt;em&gt;event&lt;/em&gt;, &lt;em&gt;incompatibility&lt;/em&gt; or &lt;em&gt;independancy&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
@@ -110,7 +122,7 @@
 
 &lt;p&gt;&lt;a href=&#34;/html/lorenzo_double_cursus_SOURCE/Ecole_Sante_Sciences_III.pdf&#34;&gt;&lt;i class=&#34;fa fa-file-pdf fa-2x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;h1 id=&#34;practical-work-python&#34;&gt;Practical work, Python:&lt;/h1&gt;
+&lt;h1 id=&#34;practical-work-on-python&#34;&gt;Practical work on Python&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Statistical tests and multiplicity&lt;/strong&gt;: Unitary tests, boxplot visualisations, Bonferroni and Benjamini-Hochberg corrections
