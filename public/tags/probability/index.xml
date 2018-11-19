@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Probability on </title>
+    <link>/tags/probability/</link>
+    <description>Recent content in Probability on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 16 Nov 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/probability/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Statistics and Probability</title>
+      <link>/teaching/double_cursus_stats/</link>
+      <pubDate>Fri, 16 Nov 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/teaching/double_cursus_stats/</guid>
+      <description>Course :
+ Introduction to statistical language and notions such as event, incompatibility or independancy.
+ Enumerations and Bayes formula
+ Classical estimators (mean, variance)
+ Usual discret and continuous laws.
+ An introduction to the statistical tests.
+  Analysis Course
+Practical work, Python :
+ General introduction to the language and its main data variable structures plus example of bivariate scatterplot visualisation.  Python beginning
+ Statistical tests and multiplicity : Unitary tests, boxplot visualisations, Bonferroni and Benjamini-Hochberg corrections.</description>
+    </item>
+    
+  </channel>
+</rss>
