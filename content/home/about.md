@@ -13,7 +13,8 @@ weight = 2
     "Machine Learning",
     "Missing Value Treatment",
     "Biostatistics and genetics",
-    "Climbing and Mountaineering",
+    "Teaching",
+    "Climbing and Mountaineering"
   ]
 
 # List your qualifications (such as academic degrees).

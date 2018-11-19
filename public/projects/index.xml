@@ -18,7 +18,7 @@
       <pubDate>Mon, 19 Nov 2018 00:00:00 +0100</pubDate>
       
       <guid>/projects/ddspls/</guid>
-      <description></description>
+      <description>In the high dimensional settings, a large number of variables, one objective is to select the relevant variables and thus to reduce the dimension. That subspace selection is often managed with supervised tools. However, some data can be missing, compromising the validity of the sub-space selection. We propose a Partial Least Square (PLS), flavored method, called Multi-Block Data-Driven sparse PLS (mdd-sPLS), allowing jointly variable selection and subspace estimation while training and testing missing data imputation through a new algorithm called Koh-Lanta.</description>
     </item>
     
   </channel>
