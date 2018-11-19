@@ -1,10 +1,10 @@
 +++
-title = "Mobile visual clothing search"
-date = 2013-07-01T00:00:00
+title = "Systems Vaccinology Identifies an Early Innate Immune Signature as a Correlate of Antibody Responses to the Ebola Vaccine rVSV-ZEBOV"
+date = 2018-11-19T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["GA Cushen", "MS Nixon"]
+authors = ["A Rechtien", "L Richert", "H Lorenzo", "G Martrus", "B Hejblum", "C Dahlke", "R Kasonta", "M Zinser", "H Stubbe", "U Matschl", "A Lohse", "V Krähling", "M Eickmann", "S Becker", "VEBCON Consortium", "R Thiebaut", "M Altfeld", "M Addo"]
 
 # Publication type.
 # Legend:
@@ -15,15 +15,14 @@ authors = ["GA Cushen", "MS Nixon"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "In *Cell reports*, Volume 20, Issue 9, 2017: pages 2251 to 2261*."
-publication_short = "In *ICMEW*"
+publication_short = "In *Cell Rep.* 2017;20(9):2251-2261"
 
 # Abstract and optional shortened version.
-abstract = "We present a mobile visual clothing search system whereby a smart phone user can either choose a social networking photo or take a new photo of a person wearing clothing of interest and search for similar clothing in a retail database. From the query image, the person is detected, clothing is segmented, and clothing features are extracted and quantized. The information is sent from the phone client to a server, where the feature vector of the query image is used to retrieve similar clothing products from online databases. The phone's GPS location is used to re-rank results by retail store location. State of the art work focuses primarily on the recognition of a diverse range of clothing offline and pays little attention to practical applications. Evaluated on a challenging dataset, the system is relatively fast and achieves promising results."
-abstract_short = "A mobile visual clothing search system is presented whereby a smart phone user can either choose a social networking image or capture a new photo of a person wearing clothing of interest and search for similar clothing in a large cloud-based ecommerce database. The phone's GPS location is used to re-rank results by retail store location, to inform the user of local stores where similar clothing items can be tried on."
+abstract = "Predicting vaccine efficacy remains a challenge. We used a systems vaccinology approach to identify early innate immune correlates of antibody induction in humans receiving the Ebola vaccine rVSV-ZEBOV. Blood samples from days 0, 1, 3, 7, and 14 were analyzed for changes in cytokine levels, innate immune cell subsets, and gene expression. Integrative statistical analyses with cross-validation identified a signature of 5 early innate markers correlating with antibody titers on day 28 and beyond. Among those, IP-10 on day 3 and MFI of CXCR6 on NK cells on day 1 were independent correlates. Consistently, we found an early gene expression signature linked to IP-10. This comprehensive characterization of early innate immune responses to the rVSV-ZEBOV vaccine in humans revealed immune signatures linked to IP-10. These results suggest correlates of vaccine-induced antibody induction and provide a rationale to explore strategies for augmenting the effectiveness of vaccines through manipulation of IP-10."
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -34,7 +33,7 @@ selected = true
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["internal-project"]
+#projects = ["internal-project"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -42,21 +41,14 @@ tags = []
 
 # Links (optional).
 url_pdf = "https://www.cell.com/cell-reports/pdfExtended/S2211-1247(17)31115-4"
-url_preprint = "#"
-url_code = "#"
-url_dataset = "#"
-url_project = "#"
-url_slides = "#"
-url_video = "#"
-url_poster = "#"
-url_source = "#"
+url_source = "https://www.cell.com/cell-reports/fulltext/S2211-1247(17)31115-4"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1016/j.celrep.2017.08.023"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
@@ -71,5 +63,3 @@ math = true
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
-
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
