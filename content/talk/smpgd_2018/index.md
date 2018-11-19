@@ -45,7 +45,7 @@ tags = []
 
 
 # Links (optional).
-url_pdf = "pdf/smpgd_2018"
+url_pdf = "pdf/smpgd_2018.pdf"
 url_slides = ""
 url_video = ""
 url_code = ""
