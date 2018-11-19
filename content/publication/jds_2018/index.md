@@ -40,7 +40,7 @@ selected = true
 tags = []
 
 # Links (optional).
-url_pdf = "pdf/jds_2018.pdf"
+url_pdf = "pdf/jds_2018_paper.pdf"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
