@@ -1,5 +1,5 @@
 +++
-title = "Example Talk"
+title = "Multiway high-dimensional lasso-penalized analysis with imputation of missing data applied to postgenomic data in an Ebola vaccine trial"
 date = 2017-01-01T00:00:00  # Schedule page publish date.
 draft = false
 
@@ -12,15 +12,35 @@ time_end = 2030-06-01T15:00:00
 authors = []
 
 # Abstract and optional shortened version.
-abstract = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
-abstract_short = "An example talk using Academic's Markdown slides feature."
+abstract = "Several  sets  of  variables  can  be  analyzed  simultaneously  by  canonical  correlation  in  a
+multi-way  analysis.   These  sets  of  variables  are  often  high-dimensional  and  repeated  over
+time.  For instance, full-transcriptome measured by RNA-Seq used to be performed in lon-
+gitudinal  studies  as  well  as  other  measures  such  as  peptides  or  cells.   Hence,  canonical
+correlation analysis has been extended with regularized approaches to deal with several high
+dimensional data.  However,  some measurements can be missing for technical reasons and
+therefore introduce undesired structures due to the huge dimension of the datasets.
+Our objective is to find an efficient method allowing to impute the missing values taking into
+account the three-way structure, participant-transcriptome-time, and also the missing path
+structure.
+We proposed an EM-like covariance-maximization lasso-penalized high-dimensional comple-
+tion matrix algorithm to reach that goal.
+We compared our approach on simulated data-sets with the mean imputation per gene per
+time step, the missMDA-imputeMFA algorithm which takes structure into account and the
+softImpute  solution  initially  designed  to  solve  the  Netflix  competition  a  high-dimensional
+problem.  We used two criterions:  the L2-error between estimated and simulated values and
+the L2-error between estimated and simulated covariance matrices.  The numerical results
+exhibited the superiority of the proposed method in most of the scenarii.  We also illustrated
+our approach on a real data-set from a phase I Ebola vaccine trial measuring RNA-Seq data
+after vaccination (richtien, cell report 2017) in 20 participants at 4 different times on whole-
+blood  samples,  representing 74  sequenced-samples,  among which  24  samples were missing
+because of technological issues."
 
 # Name of event and optional event URL.
-event = "Academic Theme Conference"
-event_url = "https://example.org"
+event = "Annual workshop on Statistical Methods for Post Genomic Data - SMPGD 2018"
+event_url = "https://smpgd2018.sciencesconf.org/"
 
 # Location of event.
-location = "London, United Kingdom"
+location = "Montpellier, France"
 
 # Is this a selected talk? (true/false)
 selected = false
@@ -31,7 +51,7 @@ selected = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["internal-project"]
+#projects = ["internal-project"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -43,7 +63,7 @@ tags = []
 #   E.g. `slides = "example-slides"` references 
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides = "example-slides"
+slides = "pdf/smpgd_2018.pdf"
 
 # Links (optional).
 url_pdf = ""
@@ -58,7 +78,7 @@ math = true
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
+  # caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
