@@ -18,7 +18,7 @@ tags = ["English","Visualization","PCA","t-SNE"]
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Smart"
+  focal_point = "Right"
 +++
 
 # Overview
@@ -41,4 +41,4 @@ That course discusses most of the pros and cons of the two main visualization me
 
 # Practical work on R
 
-**tSNE and PCA on single-cell RNA-Seq. How to ?**: Simply how to perform **PCA** and **tSNE** on a given RNA-Seq Single-Cell dataset. The correct eventual conclusions is left to the reader [<i class="fa fa-r-project fa-2x"></i>](/pdf/tsne.pdf)
+**tSNE and PCA on single-cell RNA-Seq. How to ?**: Simply how to perform **PCA** and **tSNE** on a given RNA-Seq Single-Cell dataset. The correct eventual conclusions is left to the reader [<i class="fab fa-r-project fab-2x"></i>](/pdf/tsne.pdf)

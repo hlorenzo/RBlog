@@ -42,8 +42,8 @@ The [Health and Science](https://www.u-bordeaux.fr/Actualites/De-la-formation/Ec
 # Practical work on Python
 
   - **Statistical tests and multiplicity**: Unitary tests, boxplot visualisations, Bonferroni and Benjamini-Hochberg corrections
-[<i class="fa fa-book-open fa-2x"></i>](/html/lorenzo_double_cursus_SOURCE/tests%20-%20correction.html)
+[<i class="fab fa-python fab-2x"></i>](/html/lorenzo_double_cursus_SOURCE/tests%20-%20correction.html)
 
-  - **Linear regression**: Python linear regression tools [<i class="fa fa-book-open fa-2x"></i>](/html/lorenzo_double_cursus_SOURCE/Regression%20lineaire%20-%20correction.html)
+  - **Linear regression**: Python linear regression tools [<i class="fab fa-python fab-2x"></i>](/html/lorenzo_double_cursus_SOURCE/Regression%20lineaire%20-%20correction.html)
 
-  - **Newton-Raphson algorithm for likelihood maximization**: Study of this algorithm for a real valued function depending on 2 variables [<i class="fa fa-book-open fa-2x"></i>](/html/lorenzo_double_cursus_SOURCE/vraisemblance_newton_raphson.html) 
+  - **Newton-Raphson algorithm for likelihood maximization**: Study of this algorithm for a real valued function depending on 2 variables [<i class="fab fa-python fab-2x"></i>](/html/lorenzo_double_cursus_SOURCE/vraisemblance_newton_raphson.html) 

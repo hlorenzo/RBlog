@@ -39,6 +39,6 @@ The [Health and Science](https://www.u-bordeaux.fr/Actualites/De-la-formation/Ec
 
 # Practical work on Python
 
-  - **General Introduction**: The language, its main data variable structures and an example of bivariate scatterplot visualisation [<i class="fa fa-book-open fa-2x"></i>](/html/lorenzo_double_cursus_SOURCE/Programmation Ecole Sante Sciences - analyse.html)
+  - **General Introduction**: The language, its main data variable structures and an example of bivariate scatterplot visualisation [<i class="fab fa-python fab-2x"></i>](/html/lorenzo_double_cursus_SOURCE/Programmation Ecole Sante Sciences - analyse.html)
 
-  - **Gradient Descent**: A light study of the algorithm for a real valued function of a single real variable and presentation of the performances [<i class="fa fa-book-open fa-2x"></i>](/html/lorenzo_double_cursus_SOURCE/Double_cursus_td1_correction.html)
+  - **Gradient Descent**: A light study of the algorithm for a real valued function of a single real variable and presentation of the performances [<i class="fab fa-python fab-2x"></i>](/html/lorenzo_double_cursus_SOURCE/Double_cursus_td1_correction.html)

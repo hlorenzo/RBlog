@@ -81,9 +81,9 @@
 &lt;h1 id=&#34;practical-work-on-python&#34;&gt;Practical work on Python&lt;/h1&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;General Introduction&lt;/strong&gt;: The language, its main data variable structures and an example of bivariate scatterplot visualisation &lt;a href=&#34;/html/lorenzo_double_cursus_SOURCE/Programmation Ecole Sante Sciences - analyse.html&#34;&gt;&lt;i class=&#34;fa fa-book-open fa-2x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;General Introduction&lt;/strong&gt;: The language, its main data variable structures and an example of bivariate scatterplot visualisation &lt;a href=&#34;/html/lorenzo_double_cursus_SOURCE/Programmation Ecole Sante Sciences - analyse.html&#34;&gt;&lt;i class=&#34;fab fa-python fab-2x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Gradient Descent&lt;/strong&gt;: A light study of the algorithm for a real valued function of a single real variable and presentation of the performances &lt;a href=&#34;/html/lorenzo_double_cursus_SOURCE/Double_cursus_td1_correction.html&#34;&gt;&lt;i class=&#34;fa fa-book-open fa-2x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Gradient Descent&lt;/strong&gt;: A light study of the algorithm for a real valued function of a single real variable and presentation of the performances &lt;a href=&#34;/html/lorenzo_double_cursus_SOURCE/Double_cursus_td1_correction.html&#34;&gt;&lt;i class=&#34;fab fa-python fab-2x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -128,7 +128,7 @@
 &lt;li&gt;Numerical solution of the problem: two weights bound with a spring.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;a href=&#34;/html/lorenzo_double_cursus_SOURCE/Programmation Ecole Sante SciencesUntitled-Algebra.html&#34;&gt;&lt;i class=&#34;fa fa-book-open fa-2x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;/html/lorenzo_double_cursus_SOURCE/Programmation Ecole Sante SciencesUntitled-Algebra.html&#34;&gt;&lt;i class=&#34;fab fa-python fab-2x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -164,11 +164,11 @@
 
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Statistical tests and multiplicity&lt;/strong&gt;: Unitary tests, boxplot visualisations, Bonferroni and Benjamini-Hochberg corrections
-&lt;a href=&#34;/html/lorenzo_double_cursus_SOURCE/tests%20-%20correction.html&#34;&gt;&lt;i class=&#34;fa fa-book-open fa-2x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;a href=&#34;/html/lorenzo_double_cursus_SOURCE/tests%20-%20correction.html&#34;&gt;&lt;i class=&#34;fab fa-python fab-2x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Linear regression&lt;/strong&gt;: Python linear regression tools &lt;a href=&#34;/html/lorenzo_double_cursus_SOURCE/Regression%20lineaire%20-%20correction.html&#34;&gt;&lt;i class=&#34;fa fa-book-open fa-2x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Linear regression&lt;/strong&gt;: Python linear regression tools &lt;a href=&#34;/html/lorenzo_double_cursus_SOURCE/Regression%20lineaire%20-%20correction.html&#34;&gt;&lt;i class=&#34;fab fa-python fab-2x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Newton-Raphson algorithm for likelihood maximization&lt;/strong&gt;: Study of this algorithm for a real valued function depending on 2 variables &lt;a href=&#34;/html/lorenzo_double_cursus_SOURCE/vraisemblance_newton_raphson.html&#34;&gt;&lt;i class=&#34;fa fa-book-open fa-2x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Newton-Raphson algorithm for likelihood maximization&lt;/strong&gt;: Study of this algorithm for a real valued function depending on 2 variables &lt;a href=&#34;/html/lorenzo_double_cursus_SOURCE/vraisemblance_newton_raphson.html&#34;&gt;&lt;i class=&#34;fab fa-python fab-2x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -269,7 +269,7 @@
 
 &lt;h1 id=&#34;practical-work-on-r&#34;&gt;Practical work on R&lt;/h1&gt;
 
-&lt;p&gt;&lt;strong&gt;tSNE and PCA on single-cell RNA-Seq. How to ?&lt;/strong&gt;: Simply how to perform &lt;strong&gt;PCA&lt;/strong&gt; and &lt;strong&gt;tSNE&lt;/strong&gt; on a given RNA-Seq Single-Cell dataset. The correct eventual conclusions is left to the reader &lt;a href=&#34;/pdf/tsne.pdf&#34;&gt;&lt;i class=&#34;fa fa-r-project fa-2x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;tSNE and PCA on single-cell RNA-Seq. How to ?&lt;/strong&gt;: Simply how to perform &lt;strong&gt;PCA&lt;/strong&gt; and &lt;strong&gt;tSNE&lt;/strong&gt; on a given RNA-Seq Single-Cell dataset. The correct eventual conclusions is left to the reader &lt;a href=&#34;/pdf/tsne.pdf&#34;&gt;&lt;i class=&#34;fab fa-r-project fab-2x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

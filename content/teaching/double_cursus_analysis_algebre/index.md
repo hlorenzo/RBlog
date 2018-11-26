@@ -46,4 +46,4 @@ The [Health and Science](https://www.u-bordeaux.fr/Actualites/De-la-formation/Ec
   - Eigen-space decomposition.
   - Numerical solution of the problem: two weights bound with a spring.
 
-[<i class="fa fa-book-open fa-2x"></i>](/html/lorenzo_double_cursus_SOURCE/Programmation Ecole Sante SciencesUntitled-Algebra.html)
+[<i class="fab fa-python fab-2x"></i>](/html/lorenzo_double_cursus_SOURCE/Programmation Ecole Sante SciencesUntitled-Algebra.html)
