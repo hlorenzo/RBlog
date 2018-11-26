@@ -37,6 +37,12 @@
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;a href=&#34;/pdf/CM_sPLS.pdf&#34;&gt;&lt;i class=&#34;fa fa-file-pdf fa-2x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;practical-work-on-r&#34;&gt;Practical work on R&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;sPLS-DA for single-cell 10X dataset&lt;/strong&gt;: The application of the &lt;strong&gt;PLS&lt;/strong&gt; method to a Discriminant Analysis case for Single-cell &lt;em&gt;4&lt;/em&gt; classes discrimination &lt;a href=&#34;/pdf/spls_single_cell.pdf&#34;&gt;&lt;i class=&#34;fab fa-r-project fab-2x&#34;&gt;&lt;/i&gt;&lt;/a&gt; &lt;a href=&#34;/csv/cellTypes_genes.zip&#34;&gt;&lt;i class=&#34;fas fa-file-archive fas-2x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

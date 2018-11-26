@@ -3,9 +3,9 @@ title = "Single-cell datasets visualizations : PCA Versus tSNE"
 
 date = 2017-07-04T00:00:00
 
-summary = "Among new RNA sequencing methods, one permits to detail the RNA (or DNA) or a sample at a cellular level. That is the Single-Cell RNA-seq. That course explores methods to visualize those datasets."
+summary = "Among new RNA sequencing methods, one permits to detail the RNA (or DNA) of a sample at a cellular level. That is the Single-Cell RNA-seq. That course explores methods to visualize those datasets."
 
-tags = ["English","Visualization","PCA","t-SNE"]
+tags = ["English","Visualization","PCA","t-SNE","Single Cell"]
 
 # Optional external URL for project (replaces project detail page).
 # external_link = "static/html/lorenzo_double_cursus_SOURCE/main.html"

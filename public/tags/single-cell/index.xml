@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Single Cell on </title>
+    <link>/tags/single-cell/</link>
+    <description>Recent content in Single Cell on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 22 Nov 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/single-cell/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PLS and sparse PLS</title>
+      <link>/teaching/spls_cm/</link>
+      <pubDate>Thu, 22 Nov 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/teaching/spls_cm/</guid>
+      <description>Overview The PLS tool is powerfull to tackle the curse of dimensionality, especially if the dataset suffers form high colinearities or if $n&amp;lt;p$. It even works when the response matrix is multivariate!
+That course, given to M2-biostatistics students of ISPED, website introduces that tool and its sparse version thanks to which this is easily possible to select variables.
+Magistral course  Recalls over linear regression and non-invertible cases,
+ PLS1 and PLS2 algorithms.</description>
+    </item>
+    
+    <item>
+      <title>Single-cell datasets visualizations : PCA Versus tSNE</title>
+      <link>/teaching/pca_tsne/</link>
+      <pubDate>Tue, 04 Jul 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/teaching/pca_tsne/</guid>
+      <description>Overview The ISPED Summer School has been a perfect moment to talk about single-cell RNA-seq visualization and its importance in the current researches. Indeed, PCA tends to be set aside by methods such as tSNE because it gives deeper pieces of information on the given datasets. Serendipitously the conclusions over that tool must be manipulated with parsimony.
+That course discusses most of the pros and cons of the two main visualization methods in immunoogy which are PCA and tSNE.</description>
+    </item>
+    
+  </channel>
+</rss>
