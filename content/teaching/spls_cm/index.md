@@ -37,7 +37,7 @@ That course, given to **M2**-biostatistics students of **ISPED**, [website](http
   
   - A case study
 
-[<i class="fa fa-file-pdf fa-2x"></i>](/html/lorenzo_double_cursus_SOURCE/CM_sPLS.pdf)
+[<i class="fa fa-file-pdf fa-2x"></i>](/pdf/CM_sPLS.pdf)
 
 # Practical work on R
 
