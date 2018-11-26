@@ -5,7 +5,7 @@ date = 2018-11-16T00:00:00
 
 summary = "Mathematical courses designed to fit to French second year medical students of the *Double Cursus Sante Sciences* expecting strong mathematical bases."
 
-tags = ["French","Python","Maths","Algebra"]
+tags = ["French","Python","Maths","Algebra","Health and Science"]
 
 # Optional external URL for project (replaces project detail page).
 # external_link = "static/html/lorenzo_double_cursus_SOURCE/main.html"

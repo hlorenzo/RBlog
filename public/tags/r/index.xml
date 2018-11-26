@@ -24,5 +24,15 @@ Magistral course  Recalls over linear regression and non-invertible cases,
  PLS1 and PLS2 algorithms.</description>
     </item>
     
+    <item>
+      <title>Single-cell datasets visualizations : PCA Versus tSNE</title>
+      <link>/teaching/pca_tsne/</link>
+      <pubDate>Tue, 04 Jul 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/teaching/pca_tsne/</guid>
+      <description>Overview The ISPED Summer School has been a perfect moment to talk about single-cell RNA-seq visualization and its importance in the current researches. Indeed, PCA tends to be set aside by methods such as tSNE because it gives deeper pieces of information on the given datasets. Serendipitously the conclusions over that tool must be manipulated with parsimony.
+That course discusses most of the pros and cons of the two main visualization methods in immunoogy which are PCA and tSNE.</description>
+    </item>
+    
   </channel>
 </rss>

@@ -41,20 +41,25 @@ filter_default = 0
   tag = "*"
 
 [[filter]]
-  name = "French"
-  tag = "French"
+  name = "English"
+  tag = "English"
 
 [[filter]]
-  name = "Analysis"
-  tag = "Analysis"
+  name = "French"
+  tag = "French"
   
 [[filter]]
-  name = "Algebra"
-  tag = "Algebra"
-  
+  name = "R"
+  tag = "R"
+
 [[filter]]
-  name = "Statistics"
-  tag = "Statistics"
+  name = "Python"
+  tag = "Python"
+
+[[filter]]
+  name = "Health and Science"
+  tag = "Health and Science"
+
 
 +++
 
