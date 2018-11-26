@@ -3,7 +3,7 @@ title = "PLS and sparse PLS"
 
 date = 2018-11-22T00:00:00
 
-summary = "Introduction to PLS (Partial Least Square) and one of its sparse version"
+summary = "Introduction to PLS (Partial Least Square) and one of its sparse versions."
 
 tags = ["French","R","PLS","Selection","Sparse","Single Cell"]
 
