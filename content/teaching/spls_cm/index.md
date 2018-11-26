@@ -1,5 +1,5 @@
 +++
-title = "PLS et PLS sparse"
+title = "PLS and sparse PLS"
 
 date = 2018-11-22T00:00:00
 
