@@ -100,6 +100,14 @@
     
     <url>
     
+      <loc>/teaching/pca_tsne/</loc>
+      <lastmod>2017-07-04T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/publication/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
@@ -169,6 +177,15 @@
     
     <url>
     
+      <loc>/tags/english/</loc>
+      <lastmod>2017-07-04T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/french/</loc>
       <lastmod>2018-11-22T00:00:00+01:00</lastmod>
       <priority>0</priority>
@@ -180,6 +197,15 @@
     
       <loc>/tags/maths/</loc>
       <lastmod>2018-11-16T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/pca/</loc>
+      <lastmod>2017-07-04T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -294,6 +320,24 @@
     
       <loc>/teaching/</loc>
       <lastmod>2018-11-22T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/visualization/</loc>
+      <lastmod>2017-07-04T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/t-sne/</loc>
+      <lastmod>2017-07-04T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     

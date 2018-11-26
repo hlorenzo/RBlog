@@ -38,7 +38,3 @@ That course, given to **M2**-biostatistics students of **ISPED**, [website](http
   - A case study
 
 [<i class="fa fa-file-pdf fa-2x"></i>](/pdf/CM_sPLS.pdf)
-
-# Practical work on R
-
-  - **General Introduction**: The language, its main data variable structures and an example of bivariate scatterplot visualisation [<i class="fa fa-book-open fa-2x"></i>](/html/lorenzo_double_cursus_SOURCE/Programmation Ecole Sante Sciences - analyse.html)

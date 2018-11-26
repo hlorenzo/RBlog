@@ -37,12 +37,6 @@
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;a href=&#34;/pdf/CM_sPLS.pdf&#34;&gt;&lt;i class=&#34;fa fa-file-pdf fa-2x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;practical-work-on-r&#34;&gt;Practical work on R&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;General Introduction&lt;/strong&gt;: The language, its main data variable structures and an example of bivariate scatterplot visualisation &lt;a href=&#34;/html/lorenzo_double_cursus_SOURCE/Programmation Ecole Sante Sciences - analyse.html&#34;&gt;&lt;i class=&#34;fa fa-book-open fa-2x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     
@@ -243,6 +237,40 @@
       
       <guid>/publication/ebola_cell/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Single-cell datasets visualizations : PCA Versus tSNE</title>
+      <link>/teaching/pca_tsne/</link>
+      <pubDate>Tue, 04 Jul 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/teaching/pca_tsne/</guid>
+      <description>
+
+&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://bss-publichealth.u-bordeaux.fr/en&#34; target=&#34;_blank&#34;&gt;ISPED Summer School&lt;/a&gt; has been a perfect moment to talk about single-cell RNA-seq visualization and its importance in the current researches. Indeed, &lt;strong&gt;PCA&lt;/strong&gt; tends to be set aside by methods such as &lt;strong&gt;tSNE&lt;/strong&gt; because it gives deeper pieces of information on the given datasets. Serendipitously the conclusions over that tool must be manipulated with parsimony.&lt;/p&gt;
+
+&lt;p&gt;That course discusses most of the pros and cons of the two main visualization methods in immunoogy which are &lt;strong&gt;PCA&lt;/strong&gt; and &lt;strong&gt;tSNE&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h1 id=&#34;current-course&#34;&gt;Current Course&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;What is single-cell RNA-Seq ?&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;What is the structure of a single-cell dataset and how to prepare it to further analyses ?&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Objectives of &lt;strong&gt;PCA&lt;/strong&gt; : interprete and visualize ?&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Main objective of &lt;strong&gt;tSNE&lt;/strong&gt; : compress the interesting information in 1 or 2 components. How to communicate ?&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;/pdf/pca_tsne.pdf&#34;&gt;&lt;i class=&#34;fa fa-file-pdf fa-2x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;practical-work-on-r&#34;&gt;Practical work on R&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;tSNE and PCA on single-cell RNA-Seq. How to ?&lt;/strong&gt;: Simply how to perform &lt;strong&gt;PCA&lt;/strong&gt; and &lt;strong&gt;tSNE&lt;/strong&gt; on a given RNA-Seq Single-Cell dataset. The correct eventual conclusions is left to the reader &lt;a href=&#34;/pdf/tsne.pdf&#34;&gt;&lt;i class=&#34;fa fa-r-project fa-2x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
