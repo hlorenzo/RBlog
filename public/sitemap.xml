@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>/teaching/spls_cm/</loc>
+      <lastmod>2018-11-22T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/projects/ddspls/</loc>
       <lastmod>2018-11-19T00:00:00+01:00</lastmod>
     </url>
@@ -162,7 +170,7 @@
     <url>
     
       <loc>/tags/french/</loc>
-      <lastmod>2018-11-16T00:00:00+01:00</lastmod>
+      <lastmod>2018-11-22T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -172,6 +180,15 @@
     
       <loc>/tags/maths/</loc>
       <lastmod>2018-11-16T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/pls/</loc>
+      <lastmod>2018-11-22T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -215,6 +232,24 @@
     
     <url>
     
+      <loc>/tags/r/</loc>
+      <lastmod>2018-11-22T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/selection/</loc>
+      <lastmod>2018-11-22T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/slides/</loc>
       <priority>0</priority>
     </url>
@@ -224,6 +259,15 @@
     <url>
     
       <loc>/slides/example-slides/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/sparse/</loc>
+      <lastmod>2018-11-22T00:00:00+01:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -249,7 +293,7 @@
     <url>
     
       <loc>/teaching/</loc>
-      <lastmod>2018-11-16T00:00:00+01:00</lastmod>
+      <lastmod>2018-11-22T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     

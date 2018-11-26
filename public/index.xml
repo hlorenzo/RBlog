@@ -11,6 +11,42 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>PLS et PLS sparse</title>
+      <link>/teaching/spls_cm/</link>
+      <pubDate>Thu, 22 Nov 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/teaching/spls_cm/</guid>
+      <description>
+
+&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;
+
+&lt;p&gt;The &lt;strong&gt;PLS&lt;/strong&gt; tool is powerfull to tackle the curse of dimensionality, especially if the dataset suffers form high colinearities or if $n&amp;lt;p$. It even works when the response matrix is multivariate!&lt;/p&gt;
+
+&lt;p&gt;That course, given to &lt;strong&gt;M2&lt;/strong&gt;-biostatistics students of &lt;strong&gt;ISPED&lt;/strong&gt;, &lt;a href=&#34;http://www.isped.u-bordeaux.fr/Formation/MasterenSantePublique/M2BIOSTAT.aspx&#34; target=&#34;_blank&#34;&gt;website&lt;/a&gt; introduces that tool and its sparse version thanks to which this is easily possible to select variables.&lt;/p&gt;
+
+&lt;h1 id=&#34;magistral-course&#34;&gt;Magistral course&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Recalls over linear regression and non-invertible cases,&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;PLS1&lt;/strong&gt; and &lt;strong&gt;PLS2&lt;/strong&gt; algorithms.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;sPLS&lt;/strong&gt; from the &lt;strong&gt;Lasso&lt;/strong&gt; point of view.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;A case study&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;/html/lorenzo_double_cursus_SOURCE/CM_sPLS.pdf&#34;&gt;&lt;i class=&#34;fa fa-file-pdf fa-2x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;practical-work-on-r&#34;&gt;Practical work on R&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;General Introduction&lt;/strong&gt;: The language, its main data variable structures and an example of bivariate scatterplot visualisation &lt;a href=&#34;/html/lorenzo_double_cursus_SOURCE/Programmation Ecole Sante Sciences - analyse.html&#34;&gt;&lt;i class=&#34;fa fa-book-open fa-2x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Multi-Data-Driven sparse PLS with imputation to missing values</title>
       <link>/projects/ddspls/</link>
       <pubDate>Mon, 19 Nov 2018 00:00:00 +0100</pubDate>

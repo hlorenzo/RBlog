@@ -33,7 +33,7 @@
     <item>
       <title>French</title>
       <link>/tags/french/</link>
-      <pubDate>Fri, 16 Nov 2018 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 22 Nov 2018 00:00:00 +0100</pubDate>
       
       <guid>/tags/french/</guid>
       <description></description>
@@ -45,6 +45,15 @@
       <pubDate>Fri, 16 Nov 2018 00:00:00 +0100</pubDate>
       
       <guid>/tags/maths/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PLS</title>
+      <link>/tags/pls/</link>
+      <pubDate>Thu, 22 Nov 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/pls/</guid>
       <description></description>
     </item>
     
@@ -63,6 +72,33 @@
       <pubDate>Fri, 16 Nov 2018 00:00:00 +0100</pubDate>
       
       <guid>/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>/tags/r/</link>
+      <pubDate>Thu, 22 Nov 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selection</title>
+      <link>/tags/selection/</link>
+      <pubDate>Thu, 22 Nov 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/selection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse</title>
+      <link>/tags/sparse/</link>
+      <pubDate>Thu, 22 Nov 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/sparse/</guid>
       <description></description>
     </item>
     
