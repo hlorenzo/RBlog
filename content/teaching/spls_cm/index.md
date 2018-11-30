@@ -43,6 +43,13 @@ That course, given to **M2**-biostatistics students of **ISPED**, [website](http
 
   - **sPLS-DA on simulated datasets**: A **4**-classes discrimination simulated problem to show the importance of the cross-validation process for supervized problems rather than explained variance [<i class="fab fa-r-project fab-2x"></i>](/html/TP_sPLS.html)
 
-  - **sPLS-DA for single-cell 10X dataset**: The application of the **PLS** method to a Discriminant Analysis case for Single-cell *4* classes discrimination [<i class="fab fa-r-project fab-2x"></i>](/html/spls_single_cell.html) [<i class="fab fa-r-project fab-2x"></i>](/R/crossValidate_splsDA.R) [<i class="fas fa-file-archive fas-2x"></i>](/csv/cellTypes_genes.zip)
+  - **sPLS-DA for single-cell 10X dataset**: The application of the **PLS** method to a Discriminant Analysis case for Single-cell *4* classes discrimination:
   
-  - **sPLS regression**: The classical application to the sPLS regression model to the `liver.toxicity` dataset [<i class="fab fa-r-project fab-2x"></i>](/html/sPLS_regression.html)
+    - Statement [<i class="fab fa-r-project fab-2x"></i>](/html/spls_single_cell.html) [<i class="fab fa-r-project fab-2x"></i>](/R/crossValidate_splsDA.R) [<i class="fas fa-file-archive fas-2x"></i>](/csv/cellTypes_genes.zip)
+    - Correction [<i class="fab fa-r-project fab-2x"></i>](/html/spls_single_cell_CORRECTION.html)
+  
+  - **sPLS regression**: The classical application to the sPLS regression model to the `liver.toxicity` dataset:
+  
+    - Statement [<i class="fab fa-r-project fab-2x"></i>](/html/sPLS_regression.html)
+    - Correction [<i class="fab fa-r-project fab-2x"></i>](/html/sPLS_regression_correction.html)
+  
