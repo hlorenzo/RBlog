@@ -6,7 +6,7 @@ date = 2018-11-19T00:00:00
 summary = "My objective is to deal with entire missing rows in supervised block-structured datasets. As a spicy detail datasets are build on a few participants and a lot of variables."
 
 # Optional external URL for project (replaces project detail page).
-# external_link = "static/html/lorenzo_double_cursus_SOURCE/main.html"
+external_link = "https://arxiv.org/abs/1901.04380"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
