@@ -1,5 +1,5 @@
 +++
-title = "Multi-Data-Driven sparse PLS with imputation to missing values"
+title = "Supervised Learning for Multi-Block Incomplete Data"
 
 date = 2018-11-19T00:00:00
 
