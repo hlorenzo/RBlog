@@ -5,7 +5,6 @@ active = true
 date = 2016-04-20T00:00:00
 
 title = "Projects"
-subtitle = "Available on \textbf{arXiv}"
 
 # Order that this section will appear in.
 weight = 1.5
