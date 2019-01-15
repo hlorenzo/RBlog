@@ -23,4 +23,4 @@ In the high dimensional settings, a large number of variables, one objective is 
 
 I work on this project with [Rodolphe Thiebaut](https://www.bordeaux-population-health.center/en/) and [Jérôme Saracco](https://www.math.u-bordeaux.fr/~jsaracco/) which are my PhD-thesis advisors. That project is in fact my PhD project. It permits me to deal with a large variety of statistical tools and mathematical concepts but also with algorithms problems.
 
-Available on **arXiv** [<i class="fab fa-feather"></i>](https://cran.r-project.org/package=ddsPLS).
+Available on [**arXiv**](https://cran.r-project.org/package=ddsPLS).
