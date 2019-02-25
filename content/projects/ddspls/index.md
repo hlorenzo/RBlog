@@ -23,6 +23,7 @@ In the high dimensional settings, a large number of variables, one objective is 
 
 I work on this project with [Rodolphe Thiébaut](https://www.bordeaux-population-health.center/en/) and [Jérôme Saracco](https://www.math.u-bordeaux.fr/~jsaracco/) which are my PhD-thesis advisors. That project is in fact my PhD project. It permits me to deal with a large variety of statistical tools and mathematical concepts but also with algorithms problems.
 
+The method is implemented in a **R**-package accessible on the **CRAN** ([<i class="fab fa-r-project"></i>](https://cran.r-project.org/package=ddsPLS)) and on **GitHub** [<i class="fab fa-github"></i>](https://github.com/hlorenzo/ddsPLS). A **Python**-package is accessible here [<i class="fab fa-python"></i>](https://pypi.org/project/py_ddspls/) and on **GitHub** [<i class="fab fa-github"></i>](https://github.com/hlorenzo/py_ddsPLS).
 
 
 The preprint is available on [**arXiv**](https://arxiv.org/abs/1901.04380).
