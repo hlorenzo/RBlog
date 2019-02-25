@@ -3,7 +3,7 @@ title = "Supervised Learning for Multi-Block Incomplete Data"
 
 date = 2018-11-19T00:00:00
 
-summary = "My objective is to deal with entire missing rows in supervised block-structured datasets. As a spicy detail datasets are build on a few participants and a lot of variables."
+summary = "My objective is to deal with entire missing rows in supervised block-structured data sets. As a spicy detail data sets are build on a few participants and a lot of variables."
 
 # Optional external URL for project (replaces project detail page).
 # external_link = "https://arxiv.org/abs/1901.04380"
@@ -23,7 +23,7 @@ In the high dimensional settings, a large number of variables, one objective is 
 
 I work on this project with [Rodolphe Thiébaut](https://www.bordeaux-population-health.center/en/) and [Jérôme Saracco](https://www.math.u-bordeaux.fr/~jsaracco/) which are my PhD-thesis advisors. That project is in fact my PhD project. It permits me to deal with a large variety of statistical tools and mathematical concepts but also with algorithms problems.
 
-A **Python**-package is accessible here [<i class="fab fa-python"></i>](https://pypi.org/project/py_ddspls/) and on **GitHub** [<i class="fab fa-github"></i>](https://github.com/hlorenzo/py_ddsPLS).
+The method is implemented in a **R**-package accessible on the **CRAN** [<i class="fab fa-r-project"></i>](https://cran.r-project.org/package=ddsPLS) . A **Python**-package is accessible here [<i class="fab fa-python"></i>](https://pypi.org/project/py_ddspls/) and on **GitHub** [<i class="fab fa-github"></i>](https://github.com/hlorenzo/py_ddsPLS).
 
 Some examples are treated through the **R**-vignette [<i class="fab fa-r-project"></i>](/html/ddsPLS.html) and the **Python**-vignette [<i class="fab fa-python"></i>](https://pypi.org/project/py_ddspls/).
 
