@@ -25,6 +25,6 @@ I work on this project with [Rodolphe Thiébaut](https://www.bordeaux-population
 
 The method is implemented in a **R**-package accessible on the **CRAN** [<i class="fab fa-r-project"></i>](https://cran.r-project.org/package=ddsPLS) and on **GitHub** [<i class="fab fa-github"></i>](https://github.com/hlorenzo/ddsPLS). A **Python**-package is accessible here [<i class="fab fa-python"></i>](https://pypi.org/project/py_ddspls/) and on **GitHub** [<i class="fab fa-github"></i>](https://github.com/hlorenzo/py_ddsPLS).
 
-Some examples are treated through the **R**-vignette [<i class="fab fa-r-project"></i>](/html/ddsPLS.html) and in the **Python**-vignette [<i class="fab fa-python"></i>](https://pypi.org/project/py_ddspls/).
+Some examples are treated through the **R**-vignette [<i class="fab fa-r-project"></i>](/html/ddsPLS.html) and the **Python**-vignette [<i class="fab fa-python"></i>](https://pypi.org/project/py_ddspls/).
 
 The preprint is available on [**arXiv**](https://arxiv.org/abs/1901.04380).
