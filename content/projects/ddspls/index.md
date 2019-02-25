@@ -23,6 +23,9 @@ In the high dimensional settings, a large number of variables, one objective is 
 
 I work on this project with [Rodolphe Thiébaut](https://www.bordeaux-population-health.center/en/) and [Jérôme Saracco](https://www.math.u-bordeaux.fr/~jsaracco/) which are my PhD-thesis advisors. That project is in fact my PhD project. It permits me to deal with a large variety of statistical tools and mathematical concepts but also with algorithms problems.
 
-Some examples are treated through the **R**-vignette [<i class="fab fa-r-project"></i>](/html/ddsPLS.html) and the **Python**-vignette [<i class="fab fa-python"></i>](https://pypi.org/project/py_ddspls/).
+[**CRAN-R**-package](https://cran.r-project.org/package=ddsPLS), [**GitHub-R**-package](https://github.com/hlorenzo/ddsPLS), [**PyPi-Python**-package](https://pypi.org/project/py_ddspls/), [**GitHub-Python**-package](https://github.com/hlorenzo/py_ddsPLS).
+
+[**R**-Vignette](/html/ddsPLS.html),
+[**Python**-vignette](https://pypi.org/project/py_ddspls/).
 
 The preprint is available on [**arXiv**](https://arxiv.org/abs/1901.04380).
