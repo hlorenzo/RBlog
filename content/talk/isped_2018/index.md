@@ -12,7 +12,7 @@ draft = false
 authors = ["H Lorenzo", "R Thiebaut", "J Saracco"]
 
 # Abstract and optional shortened version.
-abstract = "This is the last update of the current project on dealing with missing samples in mono-block context for supervised datasets."
+abstract = "This is the last update of the current project on dealing with missing samples in multi-block context for supervised datasets."
 
 # Name of event and optional event URL.
 event = "Séminaire de Biostatistiques"
