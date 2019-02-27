@@ -19,4 +19,6 @@ summary = "Multi-block data set with missing samples. Coagulation context throug
   #focal_point = "Center"
 +++
 
-The identification 
+The identification of novel biological factors associated with thrombin generation, a key biomarker of the coagulation process, remains a relevant strategy to disentangle pathophysiological mechanisms underlying the risk of venous thrombosis (VT). As part of the MARseille THrombosis Association Study (MARTHA), we measured whole blood DNA methylation levels, plasma levels of ~300 proteins, 3 thrombin generation biomarkers (endogeneous thrombin potential, peak and lagtime), clinical and genetic data in ~700 patients with VT. The application of a novel high-dimensional multi-levels statistical methodology we recently developed, the data driven sparse Partial Least Square method (\texttt{ddsPLS}), on the MARTHA datasets enabled us 1/ to confirm the role of a known mutation of the variability of endogenous thrombin potential and peak, 2/ to identify a new signature of 7 proteins strongly associated with lagtime. 
+
+I currently work on this project with [Misbah Razzaq](https://sites.google.com/site/misbahrazzaq6/), [David-Alexandre Trégouët](https://www.researchgate.net/profile/David-Alexandre_Tregouet) and [Rodolphe Thiébaut](https://www.bordeaux-population-health.center/en/).
