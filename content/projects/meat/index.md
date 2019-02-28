@@ -23,4 +23,4 @@ Through the expression of 20 proteics variables, it is possible to describe the 
 
 Interstingly enough we found that 2 proteics muscle variables where useful to predict 2 tenderness scores corresponding to other muscles.
 
-I work on this project with [Jérôme Saracco](https://www.math.u-bordeaux.fr/~jsaracco/).
+I work on this project with [Jérôme Saracco](https://www.math.u-bordeaux.fr/~jsaracco/) and [Marie-Pierre Ellies](https://www.agro-bordeaux.fr/membre/ellie-marie-pierre/).
