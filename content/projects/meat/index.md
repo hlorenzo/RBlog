@@ -12,7 +12,7 @@ summary = "Different pieces of meat are described through preteics descriptors i
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Thrombine Generation"
+  caption = "Cross-Validation Predicting Meat Tenderness"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
