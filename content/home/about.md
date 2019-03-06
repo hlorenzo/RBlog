@@ -26,6 +26,8 @@ weight = 1
 +++
 
 # Biography
-Hadrien Lorenzo is a PhD student in the [SISTM team](https://www.bordeaux-population-health.center/en/teams/statistics-in-systems-biology-and-translationnal-medicine-sistm/). He mainly works on analysing high dimensional datasets (*just a few individuals and thousands of variables*) with longitudinal structures. **SVD**-based methods are what he loves the most and he currently works on dealing with **missing values** in supervised context.
+I am a PhD student in the [SISTM team](https://www.bordeaux-population-health.center/en/teams/statistics-in-systems-biology-and-translationnal-medicine-sistm/). I work on analysing high dimensional datasets (*just a few individuals and thousands of variables*) with longitudinal and or multi-block structures. **SVD**-based methods are what I love the most and I currently work on dealing with **missing values** in supervised context.
 
 **SISTM** is mainly devoted to vaccine research and clinical trial data analyses in the context of largely scaled datasets. This is on of the few [INSERM](https://www.inserm.fr/en)/[INRIA](https://www.inria.fr/en/centre/bordeaux) teams.
+
+I unreasonably work on the [**CRAN-R**-package](https://cran.r-project.org/package=ddsPLS) for which I build a [**R**-Vignette](/html/ddsPLS.html). That vignette is updated as often as I can. This is a titanous task and I also work on a [**GitHub-Python**-package](https://github.com/hlorenzo/py_ddsPLS) which is under developpment, of cours... My wish is to touch both of the communities which have so much to share!
