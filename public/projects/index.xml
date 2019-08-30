@@ -22,6 +22,15 @@
     </item>
     
     <item>
+      <title>Meat-tenderness study in a multi-block approach</title>
+      <link>/projects/meat/</link>
+      <pubDate>Mon, 19 Nov 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/projects/meat/</guid>
+      <description>Through the expression of 20 proteics variables, it is possible to describe the nutritive aspects of a piece of meat. The present data set gathers the information from 5 differnt muscles from 10 differnt animals chosen as to minimize biological biases. Those samples are also described by tenderness scores. So far researchers tried to predict the tenderness of a muscle thanks to its proper proteics expression. Our idea is to use the ddsPLS approach with a multivariate output combinig the 5 tenderness scores describing each of the 5 muscles.</description>
+    </item>
+    
+    <item>
       <title>Supervised Learning for Multi-Block Incomplete Data</title>
       <link>/projects/ddspls/</link>
       <pubDate>Mon, 19 Nov 2018 00:00:00 +0100</pubDate>
