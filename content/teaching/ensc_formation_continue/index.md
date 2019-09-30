@@ -5,7 +5,7 @@ date = 2019-07-03T00:00:00
 
 summary = "That course shows main goals of supervised and unsupervised methods and their applications through the spectrum of my proper applications."
 
-tags = ["English","Visualization","PCA","t-SNE","Single Cell","PLS"]
+tags = ["French","Formation continue","Visualization","PCA","t-SNE","Single Cell","PLS"]
 
 # Optional external URL for project (replaces project detail page).
 # external_link = "static/html/lorenzo_double_cursus_SOURCE/main.html"

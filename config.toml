@@ -294,7 +294,7 @@ enableGitInfo = false
 #  weight = 5
 
 [[menu.main]]
-  name = "Talks"
+  name = "Talks and Posters"
   url = "#talks"
   weight = 4
 
