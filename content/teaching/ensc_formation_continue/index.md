@@ -1,5 +1,5 @@
 +++
-title = "Supervised and unsupervised data analysis for high dimensinal data"
+title = "Supervised and unsupervised analysis for high dimensinal data"
 
 date = 2017-07-04T00:00:00
 
@@ -14,7 +14,7 @@ tags = ["English","Visualization","PCA","t-SNE","Single Cell","R","PLS"]
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = ""
+  caption = "Supervised and unsupervised analysis for high dimensinal data"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
