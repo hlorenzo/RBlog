@@ -1,5 +1,5 @@
 +++
-title = "High-dimensional multi-block analysis of factorsassociated with thrombin generation potential"
+title = "High-dimensional multi-block analysis of factors associated with thrombin generation potential"
 
 date = 2018-11-19T00:00:00
 
