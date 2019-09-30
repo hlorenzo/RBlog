@@ -5,7 +5,7 @@ date = 2017-07-04T00:00:00
 
 summary = "That course shows main goals of supervised and unsupervised methods and their applications through the spectrum of my proper applications."
 
-tags = ["English","Visualization","PCA","t-SNE","Single Cell","R","PLS"]
+tags = ["English","Visualization","PCA","t-SNE","Single Cell","PLS"]
 
 # Optional external URL for project (replaces project detail page).
 # external_link = "static/html/lorenzo_double_cursus_SOURCE/main.html"
@@ -14,7 +14,7 @@ tags = ["English","Visualization","PCA","t-SNE","Single Cell","R","PLS"]
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Supervised and unsupervised analysis for high dimensinal data"
+  caption = "Big data and statistics for the engineer"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
@@ -23,7 +23,7 @@ tags = ["English","Visualization","PCA","t-SNE","Single Cell","R","PLS"]
 
 # Overview
 
-The [ISPED Summer School](https://ensc.bordeaux-inp.fr/fr/big-data-et-statistique-pour-l-ingenieur) is designed to fit with graduated and senior students who desire to keep on touch with forehead methods on big data and statistics for engineers.
+The [DU BDSI 2019](https://ensc.bordeaux-inp.fr/fr/big-data-et-statistique-pour-l-ingenieur) is designed to fit with graduated and senior students who desire to keep on touch with forehead methods on big data and statistics for engineers.
  
 # Current Course
 
