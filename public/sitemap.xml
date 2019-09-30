@@ -4,6 +4,30 @@
     
     <url>
     
+      <loc>/teaching/ensc_formation_continue/</loc>
+      <lastmod>2019-07-03T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/meat/</loc>
+      <lastmod>2019-06-11T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/talk/jed_2019/</loc>
+      <lastmod>2019-05-16T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/publication/csda/</loc>
       <lastmod>2019-01-14T00:00:00+01:00</lastmod>
     </url>
@@ -20,15 +44,7 @@
     
     <url>
     
-      <loc>/projects/venousthrom/</loc>
-      <lastmod>2018-11-19T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/projects/meat/</loc>
+      <loc>/publication/venousthrom/</loc>
       <lastmod>2018-11-19T00:00:00+01:00</lastmod>
     </url>
     
@@ -210,8 +226,17 @@
     
     <url>
     
+      <loc>/tags/formation-continue/</loc>
+      <lastmod>2019-07-03T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/french/</loc>
-      <lastmod>2018-11-22T00:00:00+01:00</lastmod>
+      <lastmod>2019-07-03T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -238,7 +263,7 @@
     <url>
     
       <loc>/tags/pca/</loc>
-      <lastmod>2017-07-04T00:00:00+02:00</lastmod>
+      <lastmod>2019-07-03T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -247,7 +272,7 @@
     <url>
     
       <loc>/tags/pls/</loc>
-      <lastmod>2018-11-22T00:00:00+01:00</lastmod>
+      <lastmod>2019-07-03T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -310,7 +335,7 @@
     <url>
     
       <loc>/tags/single-cell/</loc>
-      <lastmod>2018-11-22T00:00:00+01:00</lastmod>
+      <lastmod>2019-07-03T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -361,7 +386,7 @@
     <url>
     
       <loc>/teaching/</loc>
-      <lastmod>2018-11-22T00:00:00+01:00</lastmod>
+      <lastmod>2019-07-03T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -370,7 +395,7 @@
     <url>
     
       <loc>/tags/visualization/</loc>
-      <lastmod>2017-07-04T00:00:00+02:00</lastmod>
+      <lastmod>2019-07-03T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -379,7 +404,7 @@
     <url>
     
       <loc>/tags/t-sne/</loc>
-      <lastmod>2017-07-04T00:00:00+02:00</lastmod>
+      <lastmod>2019-07-03T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     

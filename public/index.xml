@@ -11,6 +11,63 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Supervised and unsupervised analysis for high dimensinal data</title>
+      <link>/teaching/ensc_formation_continue/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/teaching/ensc_formation_continue/</guid>
+      <description>
+
+&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;
+
+&lt;p&gt;The &lt;a href=&#34;https://ensc.bordeaux-inp.fr/fr/big-data-et-statistique-pour-l-ingenieur&#34; target=&#34;_blank&#34;&gt;DU BDSI 2019&lt;/a&gt; is designed to fit with graduated and senior students who desire to keep on touch with forehead methods on big data and statistics for engineers.&lt;/p&gt;
+
+&lt;h1 id=&#34;current-course&#34;&gt;Current Course&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;What are supervised and unsupervised methods ?&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;What are &lt;strong&gt;PCA&lt;/strong&gt;, &lt;strong&gt;tSNE&lt;/strong&gt; and &lt;strong&gt;UMAP&lt;/strong&gt;. How can they be interpretable, pros and cons ?&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;What are the &lt;strong&gt;Lasso&lt;/strong&gt; and the &lt;strong&gt;logistic regression&lt;/strong&gt;, what is &lt;strong&gt;PLS&lt;/strong&gt; and how those methods can be integrated in a single one ?&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Three applications&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Ebola rVSV vaccine&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Meat tenderness&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Venous thrombosis&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;/pdf/ENSC.pdf&#34;&gt;&lt;i class=&#34;fa fa-file-pdf fa-2x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An Original Methodology for the Selection of Biomarkers of Tenderness in Five Different Muscles</title>
+      <link>/publication/meat/</link>
+      <pubDate>Tue, 11 Jun 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/meat/</guid>
+      <description>&lt;p&gt;For several years, studies conducted for discovering tenderness biomarkers have proposed a list of 20 candidates. The aim of the present work was to develop an innovative methodology to select the most predictive among this list. The relative abundance of the proteins was evaluated on five muscles of 10 Holstein cows: gluteobiceps, semimembranosus, semitendinosu s, T riceps brachii and V astus lateralis. To select the most predictive biomarkers, a multi-block model was used: The Data-Driven Sparse Partial Least Square. S emimembranosus and vastus lateralis muscles tenderness could be well predicted (R²= 0.95 and 0.94 respectively) with a total of 7 out of the 5 times 20 biomarkers analyzed. An original result is that the predictive proteins were the same for these two muscles: µ-calpain, m-calpain, h2afx and Hsp40 measured in m. gluteobiceps and µ-calpain, m-calpain and Hsp70-8 measured in m. Triceps brachii. Thus, this method is well adapted to this set of data, making it possible to propose robust candidate biomarkers of tenderness that need to be validated on a larger population.&lt;/p&gt;
+
+&lt;p&gt;I work on this project with &lt;a href=&#34;https://www.math.u-bordeaux.fr/~jsaracco/&#34; target=&#34;_blank&#34;&gt;Jérôme Saracco&lt;/a&gt; and &lt;a href=&#34;https://www.agro-bordeaux.fr/membre/ellie-marie-pierre/&#34; target=&#34;_blank&#34;&gt;Marie-Pierre Ellies&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Apprentissage supervisé pour données massives multi-blocs incomplètes</title>
+      <link>/talk/jed_2019/</link>
+      <pubDate>Thu, 16 May 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/talk/jed_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Supervised Learning for Multi-Block Incomplete Data</title>
       <link>/publication/csda/</link>
       <pubDate>Mon, 14 Jan 2019 00:00:00 +0100</pubDate>
@@ -72,28 +129,14 @@
     </item>
     
     <item>
-      <title>High-dimensional multi-block analysis of factors associated with thrombin generation potential</title>
-      <link>/projects/venousthrom/</link>
+      <title>High-dimensional multi-block analysis of factorsassociated with thrombin generation potential</title>
+      <link>/publication/venousthrom/</link>
       <pubDate>Mon, 19 Nov 2018 00:00:00 +0100</pubDate>
       
-      <guid>/projects/venousthrom/</guid>
+      <guid>/publication/venousthrom/</guid>
       <description>&lt;p&gt;The identification of novel biological factors associated with thrombin generation, a key biomarker of the coagulation process, remains a relevant strategy to disentangle pathophysiological mechanisms underlying the risk of venous thrombosis (VT). As part of the MARseille THrombosis Association Study (MARTHA), we measured whole blood DNA methylation levels, plasma levels of ~300 proteins, 3 thrombin generation biomarkers (endogeneous thrombin potential, peak and lagtime), clinical and genetic data in ~700 patients with VT. The application of a novel high-dimensional multi-levels statistical methodology we recently developed, the data driven sparse Partial Least Square method (\texttt{ddsPLS}), on the MARTHA datasets enabled us 1/ to confirm the role of a known mutation of the variability of endogenous thrombin potential and peak, 2/ to identify a new signature of 7 proteins strongly associated with lagtime.&lt;/p&gt;
 
 &lt;p&gt;I currently work on this project with &lt;a href=&#34;https://sites.google.com/site/misbahrazzaq6/&#34; target=&#34;_blank&#34;&gt;Misbah Razzaq&lt;/a&gt;, &lt;a href=&#34;https://www.math.u-bordeaux.fr/~jsaracco/&#34; target=&#34;_blank&#34;&gt;Jérôme Saracco&lt;/a&gt;, &lt;a href=&#34;https://www.researchgate.net/profile/David-Alexandre_Tregouet&#34; target=&#34;_blank&#34;&gt;David-Alexandre Trégouët&lt;/a&gt; and &lt;a href=&#34;https://www.bordeaux-population-health.center/en/&#34; target=&#34;_blank&#34;&gt;Rodolphe Thiébaut&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Meat-tenderness study in a multi-block approach</title>
-      <link>/projects/meat/</link>
-      <pubDate>Mon, 19 Nov 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/projects/meat/</guid>
-      <description>&lt;p&gt;Through the expression of 20 proteics variables, it is possible to describe the nutritive aspects of a piece of meat. The present data set gathers the information from 5 differnt muscles from 10 differnt animals chosen as to minimize biological biases. Those samples are also described by tenderness scores. So far researchers tried to predict the tenderness of a muscle thanks to its proper proteics expression. Our idea is to use the &lt;strong&gt;ddsPLS&lt;/strong&gt; approach with a multivariate output combinig the 5 tenderness scores describing each of the 5 muscles. The co-variate part is therefore modelized with 5 blocks. Each block describing the proteics level of one of the 5 muscles.&lt;/p&gt;
-
-&lt;p&gt;Interstingly enough we found that 2 proteics muscle variables where useful to predict 2 tenderness scores corresponding to other muscles.&lt;/p&gt;
-
-&lt;p&gt;I work on this project with &lt;a href=&#34;https://www.math.u-bordeaux.fr/~jsaracco/&#34; target=&#34;_blank&#34;&gt;Jérôme Saracco&lt;/a&gt; and &lt;a href=&#34;https://www.agro-bordeaux.fr/membre/ellie-marie-pierre/&#34; target=&#34;_blank&#34;&gt;Marie-Pierre Ellies&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -293,49 +336,6 @@
       
       <guid>/talk/smpgd_2018/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Systems Vaccinology Identifies an Early Innate Immune Signature as a Correlate of Antibody Responses to the Ebola Vaccine rVSV-ZEBOV</title>
-      <link>/publication/ebola_cell/</link>
-      <pubDate>Tue, 29 Aug 2017 00:00:00 +0200</pubDate>
-      
-      <guid>/publication/ebola_cell/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Single-cell datasets visualizations : PCA Versus tSNE</title>
-      <link>/teaching/pca_tsne/</link>
-      <pubDate>Tue, 04 Jul 2017 00:00:00 +0200</pubDate>
-      
-      <guid>/teaching/pca_tsne/</guid>
-      <description>
-
-&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;
-
-&lt;p&gt;The &lt;a href=&#34;http://bss-publichealth.u-bordeaux.fr/en&#34; target=&#34;_blank&#34;&gt;ISPED Summer School&lt;/a&gt; has been a perfect moment to talk about single-cell RNA-seq visualization and its importance in the current researches. Indeed, &lt;strong&gt;PCA&lt;/strong&gt; tends to be set aside by methods such as &lt;strong&gt;tSNE&lt;/strong&gt; because it gives deeper pieces of information on the given datasets. Serendipitously the conclusions over that tool must be manipulated with parsimony.&lt;/p&gt;
-
-&lt;p&gt;That course discusses most of the pros and cons of the two main visualization methods in immunoogy which are &lt;strong&gt;PCA&lt;/strong&gt; and &lt;strong&gt;tSNE&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h1 id=&#34;current-course&#34;&gt;Current Course&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;What is single-cell RNA-Seq ?&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;What is the structure of a single-cell dataset and how to prepare it to further analyses ?&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Objectives of &lt;strong&gt;PCA&lt;/strong&gt; : interprete and visualize ?&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Main objective of &lt;strong&gt;tSNE&lt;/strong&gt; : compress the interesting information in 1 or 2 components. How to communicate ?&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;/pdf/pca_tsne.pdf&#34;&gt;&lt;i class=&#34;fa fa-file-pdf fa-2x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;practical-work-on-r&#34;&gt;Practical work on R&lt;/h1&gt;
-
-&lt;p&gt;&lt;strong&gt;tSNE and PCA on single-cell RNA-Seq. How to ?&lt;/strong&gt;: Simply how to perform &lt;strong&gt;PCA&lt;/strong&gt; and &lt;strong&gt;tSNE&lt;/strong&gt; on a given RNA-Seq Single-Cell dataset. The correct eventual conclusions is left to the reader &lt;a href=&#34;/pdf/tsne.pdf&#34;&gt;&lt;i class=&#34;fab fa-r-project fab-2x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
     </item>
     
   </channel>

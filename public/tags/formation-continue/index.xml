@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Formation continue on </title>
+    <link>/tags/formation-continue/</link>
+    <description>Recent content in Formation continue on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 03 Jul 2019 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/formation-continue/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Supervised and unsupervised analysis for high dimensinal data</title>
+      <link>/teaching/ensc_formation_continue/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/teaching/ensc_formation_continue/</guid>
+      <description>Overview The DU BDSI 2019 is designed to fit with graduated and senior students who desire to keep on touch with forehead methods on big data and statistics for engineers.
+Current Course  What are supervised and unsupervised methods ?
+ What are PCA, tSNE and UMAP. How can they be interpretable, pros and cons ?
+ What are the Lasso and the logistic regression, what is PLS and how those methods can be integrated in a single one ?</description>
+    </item>
+    
+  </channel>
+</rss>

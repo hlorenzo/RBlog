@@ -13,12 +13,30 @@
     
     
     <item>
+      <title>An Original Methodology for the Selection of Biomarkers of Tenderness in Five Different Muscles</title>
+      <link>/publication/meat/</link>
+      <pubDate>Tue, 11 Jun 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/meat/</guid>
+      <description>For several years, studies conducted for discovering tenderness biomarkers have proposed a list of 20 candidates. The aim of the present work was to develop an innovative methodology to select the most predictive among this list. The relative abundance of the proteins was evaluated on five muscles of 10 Holstein cows: gluteobiceps, semimembranosus, semitendinosu s, T riceps brachii and V astus lateralis. To select the most predictive biomarkers, a multi-block model was used: The Data-Driven Sparse Partial Least Square.</description>
+    </item>
+    
+    <item>
       <title>Supervised Learning for Multi-Block Incomplete Data</title>
       <link>/publication/csda/</link>
       <pubDate>Mon, 14 Jan 2019 00:00:00 +0100</pubDate>
       
       <guid>/publication/csda/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>High-dimensional multi-block analysis of factorsassociated with thrombin generation potential</title>
+      <link>/publication/venousthrom/</link>
+      <pubDate>Mon, 19 Nov 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/venousthrom/</guid>
+      <description>The identification of novel biological factors associated with thrombin generation, a key biomarker of the coagulation process, remains a relevant strategy to disentangle pathophysiological mechanisms underlying the risk of venous thrombosis (VT). As part of the MARseille THrombosis Association Study (MARTHA), we measured whole blood DNA methylation levels, plasma levels of ~300 proteins, 3 thrombin generation biomarkers (endogeneous thrombin potential, peak and lagtime), clinical and genetic data in ~700 patients with VT.</description>
     </item>
     
     <item>

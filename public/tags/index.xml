@@ -40,9 +40,18 @@
     </item>
     
     <item>
+      <title>Formation continue</title>
+      <link>/tags/formation-continue/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/formation-continue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>French</title>
       <link>/tags/french/</link>
-      <pubDate>Thu, 22 Nov 2018 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0200</pubDate>
       
       <guid>/tags/french/</guid>
       <description></description>
@@ -69,7 +78,7 @@
     <item>
       <title>PCA</title>
       <link>/tags/pca/</link>
-      <pubDate>Tue, 04 Jul 2017 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0200</pubDate>
       
       <guid>/tags/pca/</guid>
       <description></description>
@@ -78,7 +87,7 @@
     <item>
       <title>PLS</title>
       <link>/tags/pls/</link>
-      <pubDate>Thu, 22 Nov 2018 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0200</pubDate>
       
       <guid>/tags/pls/</guid>
       <description></description>
@@ -123,7 +132,7 @@
     <item>
       <title>Single Cell</title>
       <link>/tags/single-cell/</link>
-      <pubDate>Thu, 22 Nov 2018 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0200</pubDate>
       
       <guid>/tags/single-cell/</guid>
       <description></description>
@@ -150,7 +159,7 @@
     <item>
       <title>Visualization</title>
       <link>/tags/visualization/</link>
-      <pubDate>Tue, 04 Jul 2017 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0200</pubDate>
       
       <guid>/tags/visualization/</guid>
       <description></description>
@@ -159,7 +168,7 @@
     <item>
       <title>t-SNE</title>
       <link>/tags/t-sne/</link>
-      <pubDate>Tue, 04 Jul 2017 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0200</pubDate>
       
       <guid>/tags/t-sne/</guid>
       <description></description>
