@@ -1,7 +1,7 @@
 +++
 title = "Supervised and unsupervised analysis for high dimensinal data"
 
-date = 2017-07-04T00:00:00
+date = 2019-07-03T00:00:00
 
 summary = "That course shows main goals of supervised and unsupervised methods and their applications through the spectrum of my proper applications."
 
