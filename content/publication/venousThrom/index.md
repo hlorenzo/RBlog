@@ -6,7 +6,8 @@ date = 2018-11-19T00:00:00
 summary = "Multi-block data set with missing samples. Coagulation context through thrombine generation description for a well known French cohort."
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://jerome-saracco.fr/wp-content/uploads/2019/07/IEEE_CBMS-2019.pdf"
+url_pdf = "pdf/lorenzo_cbms_2019.pdf"
+url_source = "https://ieeexplore.ieee.org/document/8787524"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

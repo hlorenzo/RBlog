@@ -6,7 +6,8 @@ date = 2019-06-11T00:00:00
 summary = "Different pieces of meat are described through proteics descriptors in the objective of predicting their respective tendernesses."
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://www.mdpi.com/2304-8158/8/6/206/pdf"
+url_pdf = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6617152/pdf/foods-08-00206.pdf"
+url_source = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6617152/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
