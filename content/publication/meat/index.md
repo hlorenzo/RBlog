@@ -2,8 +2,15 @@
 title = "An Original Methodology for the Selection of Biomarkers of Tenderness in Five Different Muscles"
 
 date = 2019-06-11T00:00:00
+draft = false
+authors = ["MP Ellies-Oury","H Lorenzo","C Denoyelle","C Denoyelle","J Saracco","B Picard"]
+publication_types = ["2"]
 
-summary = "Different pieces of meat are described through proteics descriptors in the objective of predicting their respective tendernesses."
+abstract = "For several years, studies conducted for discovering tenderness biomarkers have proposeda list of 20 candidates. The aim of the present work was to develop an innovative methodology toselect the most predictive among this list. The relative abundance of the proteins was evaluated on fivemuscles of 10 Holstein cows:gluteobiceps,semimembranosus,semitendinosus,Triceps brachiiandVastuslateralis. To select the most predictive biomarkers, a multi-block model was used: The Data-DrivenSparse Partial Least Square.SemimembranosusandVastus lateralismuscles tenderness could be wellpredicted (R2=0.95 and 0.94 respectively) with a total of 7 out of the 5 times 20 biomarkers analyzed.An original result is that the predictive proteins were the same for these two muscles:μ-calpain,m-calpain, h2afx and Hsp40 measured in m.gluteobicepsandμ-calpain, m-calpain and Hsp70-8measured in m.Triceps brachii. Thus, this method is well adapted to this set of data, making it possibleto propose robust candidate biomarkers of tenderness that need to be validated on a larger population"
+
+selected = true
+
+projects = ["ddspls"]
 
 # Optional external URL for project (replaces project detail page).
 url_pdf = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6617152/pdf/foods-08-00206.pdf"
