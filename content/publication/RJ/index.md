@@ -40,7 +40,7 @@ selected = true
 tags = []
 
 # Links (optional).
-url_pdf = "pdf/RJ.pdf"
+url_pdf = "pdf/RJwrapper.pdf"
 # url_source = "https://arxiv.org/abs/1901.04380"
 
 # Custom links (optional).
