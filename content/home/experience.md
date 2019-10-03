@@ -39,7 +39,7 @@ date_format = "January 2006"
   date_start = "2015-10-01"
   date_end = "2016-10-01"
   description = """
-  Discover publich health and its tools.
+  Discover public health and its tools.
   """
   
 [[experience]]
