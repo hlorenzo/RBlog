@@ -44,7 +44,7 @@ tags = []
 
 
 # Links (optional).
-url_pdf = "pdf/poster_jh2.pdf"
+url_pdf = "pdf/J_hare.pdf"
 
 # Does the content use math formatting?
 math = true
