@@ -16,7 +16,7 @@ abstract = "The identification of novel biological factors associated with throm
 
 # Name of event and optional event URL.
 event = "32nd IEEE CBMS International Symposium on Computer-Based Medical Systems -- CBMS2019"
-event_url = "http://cbms2019.org/"
+  event_url = "http://cbms2019.org/"
 
 # Location of event.
 location = "Cordoue, Espagne"
