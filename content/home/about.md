@@ -19,7 +19,7 @@ weight = 1
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Biostatistics""
+  course = "PhD in Biostatistics"
   institution = "Université de Bordeaux"
   year = 2019
 

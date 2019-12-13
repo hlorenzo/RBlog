@@ -3,7 +3,7 @@ title = "Thesis memory writing"
 
 date = 2018-11-19T00:00:00
 
-summary = "The objective was to write a thesis memory down."
+summary = "The objective was to write a thesis memory."
 
 # Optional external URL for project (replaces project detail page).
 # external_link = "https://arxiv.org/abs/1901.04380"
