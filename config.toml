@@ -52,7 +52,7 @@ enableGitInfo = false
 
   # Your details.
   name = "Hadrien Lorenzo"
-  role = "PhD student in Biostatistics"
+  role = "PhD in Biostatistics and engineer in applied Mathematics"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -318,12 +318,13 @@ enableGitInfo = false
   url = "#contact"
   weight = 8
 
+
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[menu.main]]
-#    name = "CV"
-#    url = "files/cv.pdf"
-#    weight = 7
+[[menu.main]]
+  name = "CV"
+  url = "/pdf/cv_universitaire.pdf"
+  weight = 9
 
 # Search.
 [params.search]
