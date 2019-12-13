@@ -11,6 +11,31 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>ddsPLS: A Package to Deal with Multiblock Supervised Problems with Missing Samples in High Dimension</title>
+      <link>/publication/rj/</link>
+      <pubDate>Thu, 03 Oct 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/rj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetics project in the context of high dimensional data</title>
+      <link>/teaching/ensai_2019/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/teaching/ensai_2019/</guid>
+      <description>
+
+&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://ensai.fr/en/apres-lensai/les-metiers-de-la-data-2/la-biostatistique/&#34; target=&#34;_blank&#34;&gt;Engineer diploma of Biostatistics&lt;/a&gt; is the last year speciality which deals with the questions of biostatistics. That course is an introduction to the project over the 10X data set that students had to deal with. It implied data analysis and interpretations comparing different methods.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;/pdf/ENSAI_1.pdf&#34;&gt;&lt;i class=&#34;fa fa-file-pdf fa-2x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Supervised and unsupervised analysis for high dimensinal data</title>
       <link>/teaching/ensc_formation_continue/</link>
       <pubDate>Wed, 03 Jul 2019 00:00:00 +0200</pubDate>
@@ -56,6 +81,15 @@
 
 &lt;p&gt;I work on this project with &lt;a href=&#34;https://www.math.u-bordeaux.fr/~jsaracco/&#34; target=&#34;_blank&#34;&gt;Jérôme Saracco&lt;/a&gt; and &lt;a href=&#34;https://www.agro-bordeaux.fr/membre/ellie-marie-pierre/&#34; target=&#34;_blank&#34;&gt;Marie-Pierre Ellies&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>High-dimensional multi-block analysis of factors associated with thrombin generation potential</title>
+      <link>/talk/ieee_cbms_2019/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/talk/ieee_cbms_2019/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -308,33 +342,6 @@
       <pubDate>Thu, 05 Jul 2018 00:00:00 +0200</pubDate>
       
       <guid>/talk/isped_2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Une PLS multivoie parcimonieuse avec observations manquantes pour données hétérogènes</title>
-      <link>/publication/jds_2018/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/publication/jds_2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Une PLS multivoie parcimonieuse avec observations manquantes pour données hétérogènes</title>
-      <link>/talk/jds_2018/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/talk/jds_2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multiway high-dimensional lasso-penalized analysis with imputation of missing data applied to postgenomic data in an Ebola vaccine trial</title>
-      <link>/talk/smpgd_2018/</link>
-      <pubDate>Fri, 12 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/talk/smpgd_2018/</guid>
       <description></description>
     </item>
     

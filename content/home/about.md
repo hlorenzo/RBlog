@@ -26,7 +26,7 @@ weight = 1
 +++
 
 # Biography
-I am a PhD student in the [SISTM team](https://www.bordeaux-population-health.center/en/teams/statistics-in-systems-biology-and-translationnal-medicine-sistm/). I work on analysing high dimensional datasets (*just a few individuals and thousands of variables*) with longitudinal and or multi-block structures. **SVD**-based methods are what I love the most and I currently work on dealing with **missing values** in supervised context.
+I am a PhD in Biostatistics and currently in PostDoc in the [SISTM team](https://www.bordeaux-population-health.center/en/teams/statistics-in-systems-biology-and-translationnal-medicine-sistm/). I work on analysing high dimensional datasets (*just a few individuals and thousands of variables*) with longitudinal and or multi-block structures. **SVD**-based methods are what I love the most and I currently work on dealing with **missing values** in supervised context.
 
 **SISTM** is mainly devoted to vaccine research and clinical trial data analyses in the context of largely scaled datasets. This is on of the few [INSERM](https://www.inserm.fr/en)/[INRIA](https://www.inria.fr/en/centre/bordeaux) teams.
 
