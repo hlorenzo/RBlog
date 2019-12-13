@@ -19,6 +19,9 @@ weight = 1
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
+  course = "[PhD in Biostatistics](/pdf/these_lorenzo_finale.pdf)"
+  institution = "Université de Bordeaux"
+  year = 2019
   course = "Research Master, Applied Mathematics for Image and Signal Processing"
   institution = "CentraleSupelec and Paris-Sud University"
   year = 2015
