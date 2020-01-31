@@ -196,6 +196,16 @@
     </item>
     
     <item>
+      <title>Thesis memory writing</title>
+      <link>/projects/these/</link>
+      <pubDate>Mon, 19 Nov 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/projects/these/</guid>
+      <description>&lt;p&gt;The result is available &lt;a href=&#34;/pdf/these_lorenzo_finale.pdf&#34;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Maths and function analysis</title>
       <link>/teaching/double_cursus_analysis/</link>
       <pubDate>Fri, 16 Nov 2018 00:00:00 +0100</pubDate>
@@ -334,15 +344,6 @@
 
 &lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>A mono/multi-block sparse PLS for heterogeneous data with missing samples</title>
-      <link>/talk/isped_2018/</link>
-      <pubDate>Thu, 05 Jul 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/talk/isped_2018/</guid>
-      <description></description>
     </item>
     
   </channel>
