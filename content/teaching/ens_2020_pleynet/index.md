@@ -5,7 +5,7 @@ date = 2020-01-21T00:00:00
 
 summary = "That course shows main goals of statistical learning detailing bias/variance tradeoff and most of my thesis results."
 
-tags = ["French", "English","Statistical Learning","ddsPLS"]
+tags = ["French", "English","Statistical Learning"]
 
 # Optional external URL for project (replaces project detail page).
 # external_link = "static/html/lorenzo_double_cursus_SOURCE/main.html"

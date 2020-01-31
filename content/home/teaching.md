@@ -59,6 +59,10 @@ filter_default = 0
 [[filter]]
   name = "Health and Science"
   tag = "Health and Science"
+  
+[[filter]]
+  name = "Statistical Learning"
+  tag = "Statistical Learning"
 
 
 +++
