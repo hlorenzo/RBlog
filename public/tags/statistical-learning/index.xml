@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>English on </title>
-    <link>/tags/english/</link>
-    <description>Recent content in English on </description>
+    <title>Statistical Learning on </title>
+    <link>/tags/statistical-learning/</link>
+    <description>Recent content in Statistical Learning on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Tue, 21 Jan 2020 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="/tags/english/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/statistical-learning/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,16 +19,6 @@
       
       <guid>/teaching/ens_2020_pleynet/</guid>
       <description>Overview The L3 of Computer Science Department of the ENS Lyon gathers each year at the ski station of &amp;ldquo;Les Sept Laux&amp;rdquo; for an entire week of ski and with conferences mornings and nights. I have been invited to present my works and interests in a 2-hours slot. Is attached the presentation given for this event. The first part of this presentation (in French) introduces statistical learning while the second one (in English) details the results of my PhD defensis.</description>
-    </item>
-    
-    <item>
-      <title>Single-cell datasets visualizations : PCA Versus tSNE</title>
-      <link>/teaching/pca_tsne/</link>
-      <pubDate>Tue, 04 Jul 2017 00:00:00 +0200</pubDate>
-      
-      <guid>/teaching/pca_tsne/</guid>
-      <description>Overview The ISPED Summer School has been a perfect moment to talk about single-cell RNA-seq visualization and its importance in the current researches. Indeed, PCA tends to be set aside by methods such as tSNE because it gives deeper pieces of information on the given datasets. Serendipitously the conclusions over that tool must be manipulated with parsimony.
-That course discusses most of the pros and cons of the two main visualization methods in immunoogy which are PCA and tSNE.</description>
     </item>
     
   </channel>

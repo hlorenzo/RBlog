@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>/teaching/ens_2020_pleynet/</loc>
+      <lastmod>2020-01-21T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/publication/rj/</loc>
       <lastmod>2019-10-03T00:00:00+02:00</lastmod>
     </url>
@@ -258,7 +266,7 @@
     <url>
     
       <loc>/tags/english/</loc>
-      <lastmod>2017-07-04T00:00:00+02:00</lastmod>
+      <lastmod>2020-01-21T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -276,7 +284,7 @@
     <url>
     
       <loc>/tags/french/</loc>
-      <lastmod>2019-07-03T00:00:00+02:00</lastmod>
+      <lastmod>2020-01-21T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -407,6 +415,15 @@
     
     <url>
     
+      <loc>/tags/statistical-learning/</loc>
+      <lastmod>2020-01-21T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/statistics/</loc>
       <lastmod>2018-11-16T00:00:00+01:00</lastmod>
       <priority>0</priority>
@@ -426,7 +443,7 @@
     <url>
     
       <loc>/teaching/</loc>
-      <lastmod>2019-07-03T00:00:00+02:00</lastmod>
+      <lastmod>2020-01-21T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -436,6 +453,15 @@
     
       <loc>/tags/visualization/</loc>
       <lastmod>2019-07-03T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/ddspls/</loc>
+      <lastmod>2020-01-21T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     

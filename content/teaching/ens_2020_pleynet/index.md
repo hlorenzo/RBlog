@@ -1,7 +1,7 @@
 +++
 title = "Une introduction à l'apprentissage statistique"
 
-date = 2020-07-03T00:00:00
+date = 2020-01-21T00:00:00
 
 summary = "That course shows main goals of statistical learning detailing bias/variance tradeoff and most of my thesis results."
 
@@ -14,7 +14,7 @@ tags = ["French", "English","Statistical Learning","ddsPLS"]
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Statistiques pour les sciences de la vie"
+  caption = "Apprentissage Statistique"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight

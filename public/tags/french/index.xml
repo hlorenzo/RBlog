@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 03 Jul 2019 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jan 2020 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="/tags/french/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Une introduction à l&#39;apprentissage statistique</title>
+      <link>/teaching/ens_2020_pleynet/</link>
+      <pubDate>Tue, 21 Jan 2020 00:00:00 +0100</pubDate>
+      
+      <guid>/teaching/ens_2020_pleynet/</guid>
+      <description>Overview The L3 of Computer Science Department of the ENS Lyon gathers each year at the ski station of &amp;ldquo;Les Sept Laux&amp;rdquo; for an entire week of ski and with conferences mornings and nights. I have been invited to present my works and interests in a 2-hours slot. Is attached the presentation given for this event. The first part of this presentation (in French) introduces statistical learning while the second one (in English) details the results of my PhD defensis.</description>
+    </item>
     
     <item>
       <title>Genetics project in the context of high dimensional data</title>

@@ -33,7 +33,7 @@
     <item>
       <title>English</title>
       <link>/tags/english/</link>
-      <pubDate>Tue, 04 Jul 2017 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 21 Jan 2020 00:00:00 +0100</pubDate>
       
       <guid>/tags/english/</guid>
       <description></description>
@@ -51,7 +51,7 @@
     <item>
       <title>French</title>
       <link>/tags/french/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 21 Jan 2020 00:00:00 +0100</pubDate>
       
       <guid>/tags/french/</guid>
       <description></description>
@@ -148,6 +148,15 @@
     </item>
     
     <item>
+      <title>Statistical Learning</title>
+      <link>/tags/statistical-learning/</link>
+      <pubDate>Tue, 21 Jan 2020 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/statistical-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Statistics</title>
       <link>/tags/statistics/</link>
       <pubDate>Fri, 16 Nov 2018 00:00:00 +0100</pubDate>
@@ -162,6 +171,15 @@
       <pubDate>Wed, 03 Jul 2019 00:00:00 +0200</pubDate>
       
       <guid>/tags/visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ddsPLS</title>
+      <link>/tags/ddspls/</link>
+      <pubDate>Tue, 21 Jan 2020 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/ddspls/</guid>
       <description></description>
     </item>
     
