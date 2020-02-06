@@ -1,5 +1,5 @@
 +++
-title = "Une introduction à l'apprentissage statistique"
+title = "Introduction à l'apprentissage statistique"
 
 date = 2020-01-21T00:00:00
 
