@@ -31,7 +31,7 @@ weight = 10
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "70%"  
+  description = "100%"  
   
 [[feature]]
   icon = "overleaf"
