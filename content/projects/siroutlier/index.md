@@ -19,7 +19,6 @@ summary = "How to detect outliers in SIR models."
   #focal_point = "Center"
 +++
 
-
 That project uses resampling methods, such as train/test dataset cuts or bootstrap to estimate the to be predicted qualities of an observation.
 
 It has been noticed that a difference can be made between outliers and extreme observations depeding on the number of times this observation is in the train dataset:
@@ -35,3 +34,5 @@ A package has been developped on GitHub ([**outlierSIR**](https://github.com/hlo
  <li> **TTR**, the all dataset is cut in 2 parts (Train and Test). A model is built on the Train dataset and errors are computed on the Test dataset. This process is performed through many Replications. So the name **TTR**, Train-Test-Replications.</li>
  <li> **BOOT**, models are built on bootstrap samples of the all dataset and errors are computed on the all dataset.</li>
 </ul>
+
+This work is done with Jérôme Saracco.
