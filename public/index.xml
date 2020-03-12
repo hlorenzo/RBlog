@@ -11,6 +11,25 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Outliers and SIR models</title>
+      <link>/projects/siroutlier/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0100</pubDate>
+      
+      <guid>/projects/siroutlier/</guid>
+      <description>&lt;p&gt;That project uses resampling methods, such as train/test dataset cuts or bootstrap to estimate the to be predicted qualities of an observation.&lt;/p&gt;
+
+&lt;p&gt;It has been noticed that a difference can be made between outliers and extreme observations depeding on the number of times this observation is in the train dataset:
+ * &lt;strong&gt;Outliers&lt;/strong&gt; are defined by bad predictions whatever the number of times thez do appear in the dataset.
+ * &lt;strong&gt;Extreme observations&lt;/strong&gt; are defined by bad predictions if they are not present in the train dataset but with good predictions as soon as they are present at least once in the train dataset. That difference can be shown thanks to bootstrap approaches.&lt;/p&gt;
+
+&lt;p&gt;A package has been developped on GitHub: &lt;a href=&#34;https://github.com/hlorenzo/outlierSIR&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;outlierSIR&lt;/strong&gt;&lt;/a&gt; to detect outliers with sampling methods. It is possible to use 3 different approaches:
+ * &lt;strong&gt;MONO&lt;/strong&gt;, where prediction errors are computed on the all dataset thanks to a model built on the all dataset.
+ * &lt;strong&gt;TTR&lt;/strong&gt;, the all dataset is cut in 2 parts (Train and Test). A model is built on the Train dataset and errors are computed on the Test dataset. This process is performed through many Replications. So the name &lt;strong&gt;TTR&lt;/strong&gt;, Train-Test-Replications.
+ * &lt;strong&gt;BOOT&lt;/strong&gt;, models are built on bootstrap samples of the all dataset and errors are computed on the all dataset.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Introduction à l&#39;apprentissage statistique</title>
       <link>/teaching/ens_2020_pleynet/</link>
       <pubDate>Tue, 21 Jan 2020 00:00:00 +0100</pubDate>
@@ -298,47 +317,6 @@
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;a href=&#34;/html/lorenzo_double_cursus_SOURCE/Programmation Ecole Sante SciencesUntitled-Algebra.html&#34;&gt;&lt;i class=&#34;fab fa-python fab-2x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Statistics and Probability</title>
-      <link>/teaching/double_cursus_stats/</link>
-      <pubDate>Fri, 16 Nov 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/teaching/double_cursus_stats/</guid>
-      <description>
-
-&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;
-
-&lt;p&gt;The &lt;a href=&#34;https://www.u-bordeaux.fr/Actualites/De-la-formation/Ecole-sante-sciences-un-parcours-d-excellence&#34; target=&#34;_blank&#34;&gt;Health and Science&lt;/a&gt; is established since 2107 and proposes to the students of second year medical studies, pharmacology and odontology an early formation to research.&lt;/p&gt;
-
-&lt;h1 id=&#34;course&#34;&gt;Course&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Introduction to statistical language and notions such as &lt;em&gt;event&lt;/em&gt;, &lt;em&gt;incompatibility&lt;/em&gt; or &lt;em&gt;independancy&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Enumerations and Bayes formula&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Classical estimators (&lt;em&gt;mean&lt;/em&gt;, &lt;em&gt;variance&lt;/em&gt;)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Usual discret and continuous laws.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;An introduction to the statistical tests.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;/html/lorenzo_double_cursus_SOURCE/Ecole_Sante_Sciences_III.pdf&#34;&gt;&lt;i class=&#34;fa fa-file-pdf fa-2x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;practical-work-on-python&#34;&gt;Practical work on Python&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Statistical tests and multiplicity&lt;/strong&gt;: Unitary tests, boxplot visualisations, Bonferroni and Benjamini-Hochberg corrections
-&lt;a href=&#34;/html/lorenzo_double_cursus_SOURCE/tests%20-%20correction.html&#34;&gt;&lt;i class=&#34;fab fa-python fab-2x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Linear regression&lt;/strong&gt;: Python linear regression tools &lt;a href=&#34;/html/lorenzo_double_cursus_SOURCE/Regression%20lineaire%20-%20correction.html&#34;&gt;&lt;i class=&#34;fab fa-python fab-2x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Newton-Raphson algorithm for likelihood maximization&lt;/strong&gt;: Study of this algorithm for a real valued function depending on 2 variables &lt;a href=&#34;/html/lorenzo_double_cursus_SOURCE/vraisemblance_newton_raphson.html&#34;&gt;&lt;i class=&#34;fab fa-python fab-2x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     
