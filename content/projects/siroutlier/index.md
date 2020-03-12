@@ -29,7 +29,9 @@ It has been noticed that a difference can be made between outliers and extreme o
 </ul> 
 That difference can be shown thanks to bootstrap approaches.
 
-A package has been developped on GitHub: [**outlierSIR**](https://github.com/hlorenzo/outlierSIR) to detect outliers with sampling methods. It is possible to use 3 different approaches:
- * **MONO**, where prediction errors are computed on the all dataset thanks to a model built on the all dataset.
- * **TTR**, the all dataset is cut in 2 parts (Train and Test). A model is built on the Train dataset and errors are computed on the Test dataset. This process is performed through many Replications. So the name **TTR**, Train-Test-Replications.
- * **BOOT**, models are built on bootstrap samples of the all dataset and errors are computed on the all dataset.
+A package has been developped on GitHub ([**outlierSIR**](https://github.com/hlorenzo/outlierSIR)) to detect outliers with sampling methods. It is possible to use 3 different approaches:
+<ul>
+ <li> **MONO**, where prediction errors are computed on the all dataset thanks to a model built on the all dataset.</li>
+ <li> **TTR**, the all dataset is cut in 2 parts (Train and Test). A model is built on the Train dataset and errors are computed on the Test dataset. This process is performed through many Replications. So the name **TTR**, Train-Test-Replications.</li>
+ <li> **BOOT**, models are built on bootstrap samples of the all dataset and errors are computed on the all dataset.</li>
+</ul>
