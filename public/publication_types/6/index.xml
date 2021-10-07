@@ -14,7 +14,7 @@
       <pubDate>Tue, 15 Jun 2021 00:00:00 +0200</pubDate>
       
       <guid>/publication/bootsir/</guid>
-      <description></description>
+      <description>Sliced inverse regression (SIR) focuses on the relationship between a dependent variable $y$ and a $p$-dimensional explanatory variable $x$ in a semiparametric regression model in which the link relies on an index $x&#39;\beta$ and link function $f$. SIR allows to estimate the direction of $\beta$ that forms the effective dimension reduction (EDR) space. Based on the estimated index, the link function $f$ can then be nonparametrically estimated using kernel estimator. This two-step approach is sensitive to the presence of outliers in the data.</description>
     </item>
     
   </channel>

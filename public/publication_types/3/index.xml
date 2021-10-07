@@ -14,7 +14,7 @@
       <pubDate>Thu, 14 Jan 2021 00:00:00 +0100</pubDate>
       
       <guid>/publication/jmvagirard/</guid>
-      <description></description>
+      <description>Since its introduction in the early 90’s, the Sliced Inverse Regression (SIR) methodology has evolved adapting to increasingly complex data sets in contexts combining linear dimension reduction with non linear regression. The assumption of dependence of the response variable with respect to only a few linear combinations of the covariates makes it appealing for many computational and real data application aspects. This work proposes an overview of the most active research directions in SIR modeling from multivariate regression models to regularization and variable selection.</description>
     </item>
     
     <item>
@@ -23,7 +23,7 @@
       <pubDate>Thu, 14 Jan 2021 00:00:00 +0100</pubDate>
       
       <guid>/publication/sadm/</guid>
-      <description></description>
+      <description>In the supervised high dimensional settings with a large number of variables and a low number of individuals, variable selection allows a simpler interpretation and more reliable predictions. That subspace selection is often managed with supervised tools when the real question is motivated by variable prediction.We propose a Partial Least Square (PLS) based method, called data-driven sparse PLS (ddsPLS), allowing variable selection both in the covariate and the response parts using a single hyper-parameter per component.</description>
     </item>
     
   </channel>
