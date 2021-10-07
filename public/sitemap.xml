@@ -1,11 +1,42 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    <url>
+    
+      <loc>/</loc>
+      <lastmod>2020-03-01T00:00:00+01:00</lastmod>
+    </url>
+    
   
     
     <url>
     
       <loc>/projects/siroutlier/</loc>
       <lastmod>2020-03-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/projects/</loc>
+      <lastmod>2020-03-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/english/</loc>
+      <lastmod>2020-01-21T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/french/</loc>
+      <lastmod>2020-01-21T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -20,8 +51,56 @@
     
     <url>
     
+      <loc>/tags/statistical-learning/</loc>
+      <lastmod>2020-01-21T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/</loc>
+      <lastmod>2020-01-21T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/teaching/</loc>
+      <lastmod>2020-01-21T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication_types/2/</loc>
+      <lastmod>2019-10-03T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/publication/rj/</loc>
       <lastmod>2019-10-03T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication_types/</loc>
+      <lastmod>2019-10-03T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/formation-continue/</loc>
+      <lastmod>2019-07-03T00:00:00+02:00</lastmod>
     </url>
     
   
@@ -36,7 +115,47 @@
     
     <url>
     
+      <loc>/tags/pca/</loc>
+      <lastmod>2019-07-03T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/pls/</loc>
+      <lastmod>2019-07-03T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/single-cell/</loc>
+      <lastmod>2019-07-03T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/teaching/ensc_formation_continue/</loc>
+      <lastmod>2019-07-03T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/t-sne/</loc>
+      <lastmod>2019-07-03T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/visualization/</loc>
       <lastmod>2019-07-03T00:00:00+02:00</lastmod>
     </url>
     
@@ -84,6 +203,38 @@
     
     <url>
     
+      <loc>/tags/r/</loc>
+      <lastmod>2018-11-22T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/selection/</loc>
+      <lastmod>2018-11-22T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/sparse/</loc>
+      <lastmod>2018-11-22T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication_types/1/</loc>
+      <lastmod>2018-11-19T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/publication/venousthrom/</loc>
       <lastmod>2018-11-19T00:00:00+01:00</lastmod>
     </url>
@@ -108,6 +259,38 @@
     
     <url>
     
+      <loc>/tags/algebra/</loc>
+      <lastmod>2018-11-16T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/analysis/</loc>
+      <lastmod>2018-11-16T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/health-and-science/</loc>
+      <lastmod>2018-11-16T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/maths/</loc>
+      <lastmod>2018-11-16T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/teaching/double_cursus_analysis/</loc>
       <lastmod>2018-11-16T00:00:00+01:00</lastmod>
     </url>
@@ -117,6 +300,30 @@
     <url>
     
       <loc>/teaching/double_cursus_analysis_algebre/</loc>
+      <lastmod>2018-11-16T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/probability/</loc>
+      <lastmod>2018-11-16T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/python/</loc>
+      <lastmod>2018-11-16T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/statistics/</loc>
       <lastmod>2018-11-16T00:00:00+01:00</lastmod>
     </url>
     
@@ -220,179 +427,7 @@
     
     <url>
     
-      <loc>/</loc>
-      <lastmod>2017-10-15T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication_types/1/</loc>
-      <lastmod>2018-11-19T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication_types/2/</loc>
-      <lastmod>2019-10-03T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/algebra/</loc>
-      <lastmod>2018-11-16T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/analysis/</loc>
-      <lastmod>2018-11-16T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/english/</loc>
-      <lastmod>2020-01-21T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/formation-continue/</loc>
-      <lastmod>2019-07-03T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/french/</loc>
-      <lastmod>2020-01-21T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/health-and-science/</loc>
-      <lastmod>2018-11-16T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/maths/</loc>
-      <lastmod>2018-11-16T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/pca/</loc>
-      <lastmod>2019-07-03T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/pls/</loc>
-      <lastmod>2019-07-03T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/probability/</loc>
-      <lastmod>2018-11-16T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/projects/</loc>
-      <lastmod>2020-03-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication_types/</loc>
-      <lastmod>2018-11-19T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/python/</loc>
-      <lastmod>2018-11-16T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/r/</loc>
-      <lastmod>2018-11-22T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/selection/</loc>
-      <lastmod>2018-11-22T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/single-cell/</loc>
-      <lastmod>2019-07-03T00:00:00+02:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -400,7 +435,6 @@
     <url>
     
       <loc>/slides/</loc>
-      <priority>0</priority>
     </url>
     
   
@@ -408,69 +442,6 @@
     <url>
     
       <loc>/slides/example-slides/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/sparse/</loc>
-      <lastmod>2018-11-22T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/statistical-learning/</loc>
-      <lastmod>2020-01-21T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/statistics/</loc>
-      <lastmod>2018-11-16T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/</loc>
-      <lastmod>2018-11-16T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/teaching/</loc>
-      <lastmod>2020-01-21T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/visualization/</loc>
-      <lastmod>2019-07-03T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/t-sne/</loc>
-      <lastmod>2019-07-03T00:00:00+02:00</lastmod>
-      <priority>0</priority>
     </url>
     
   

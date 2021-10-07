@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on </title>
@@ -7,44 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 16 Nov 2018 00:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Algebra</title>
-      <link>/tags/algebra/</link>
-      <pubDate>Fri, 16 Nov 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/tags/algebra/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Analysis</title>
-      <link>/tags/analysis/</link>
-      <pubDate>Fri, 16 Nov 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/tags/analysis/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Tue, 21 Jan 2020 00:00:00 +0100</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>English</title>
       <link>/tags/english/</link>
       <pubDate>Tue, 21 Jan 2020 00:00:00 +0100</pubDate>
       
       <guid>/tags/english/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Formation continue</title>
-      <link>/tags/formation-continue/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/formation-continue/</guid>
       <description></description>
     </item>
     
@@ -58,20 +27,20 @@
     </item>
     
     <item>
-      <title>Health and Science</title>
-      <link>/tags/health-and-science/</link>
-      <pubDate>Fri, 16 Nov 2018 00:00:00 +0100</pubDate>
+      <title>Statistical Learning</title>
+      <link>/tags/statistical-learning/</link>
+      <pubDate>Tue, 21 Jan 2020 00:00:00 +0100</pubDate>
       
-      <guid>/tags/health-and-science/</guid>
+      <guid>/tags/statistical-learning/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Maths</title>
-      <link>/tags/maths/</link>
-      <pubDate>Fri, 16 Nov 2018 00:00:00 +0100</pubDate>
+      <title>Formation continue</title>
+      <link>/tags/formation-continue/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0200</pubDate>
       
-      <guid>/tags/maths/</guid>
+      <guid>/tags/formation-continue/</guid>
       <description></description>
     </item>
     
@@ -94,20 +63,29 @@
     </item>
     
     <item>
-      <title>Probability</title>
-      <link>/tags/probability/</link>
-      <pubDate>Fri, 16 Nov 2018 00:00:00 +0100</pubDate>
+      <title>Single Cell</title>
+      <link>/tags/single-cell/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0200</pubDate>
       
-      <guid>/tags/probability/</guid>
+      <guid>/tags/single-cell/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Python</title>
-      <link>/tags/python/</link>
-      <pubDate>Fri, 16 Nov 2018 00:00:00 +0100</pubDate>
+      <title>t-SNE</title>
+      <link>/tags/t-sne/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0200</pubDate>
       
-      <guid>/tags/python/</guid>
+      <guid>/tags/t-sne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualization</title>
+      <link>/tags/visualization/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/visualization/</guid>
       <description></description>
     </item>
     
@@ -130,15 +108,6 @@
     </item>
     
     <item>
-      <title>Single Cell</title>
-      <link>/tags/single-cell/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/single-cell/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Sparse</title>
       <link>/tags/sparse/</link>
       <pubDate>Thu, 22 Nov 2018 00:00:00 +0100</pubDate>
@@ -148,11 +117,56 @@
     </item>
     
     <item>
-      <title>Statistical Learning</title>
-      <link>/tags/statistical-learning/</link>
-      <pubDate>Tue, 21 Jan 2020 00:00:00 +0100</pubDate>
+      <title>Algebra</title>
+      <link>/tags/algebra/</link>
+      <pubDate>Fri, 16 Nov 2018 00:00:00 +0100</pubDate>
       
-      <guid>/tags/statistical-learning/</guid>
+      <guid>/tags/algebra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis</title>
+      <link>/tags/analysis/</link>
+      <pubDate>Fri, 16 Nov 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Health and Science</title>
+      <link>/tags/health-and-science/</link>
+      <pubDate>Fri, 16 Nov 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/health-and-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maths</title>
+      <link>/tags/maths/</link>
+      <pubDate>Fri, 16 Nov 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/maths/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probability</title>
+      <link>/tags/probability/</link>
+      <pubDate>Fri, 16 Nov 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/probability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>/tags/python/</link>
+      <pubDate>Fri, 16 Nov 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/python/</guid>
       <description></description>
     </item>
     
@@ -162,24 +176,6 @@
       <pubDate>Fri, 16 Nov 2018 00:00:00 +0100</pubDate>
       
       <guid>/tags/statistics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Visualization</title>
-      <link>/tags/visualization/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/visualization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>t-SNE</title>
-      <link>/tags/t-sne/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/t-sne/</guid>
       <description></description>
     </item>
     

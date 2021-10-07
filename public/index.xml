@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
@@ -7,317 +6,70 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0100</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Outliers and SIR models</title>
-      <link>/projects/siroutlier/</link>
+      <title>Projects</title>
+      <link>/projects/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0100</pubDate>
       
-      <guid>/projects/siroutlier/</guid>
-      <description>&lt;p&gt;That project uses resampling methods, such as train/test dataset cuts or bootstrap to estimate the to be predicted qualities of an observation.&lt;/p&gt;
-
-&lt;p&gt;It has been noticed that a difference can be made between outliers and extreme observations depeding on the number of times this observation is in the train dataset:
- * &lt;strong&gt;Outliers&lt;/strong&gt; are defined by bad predictions whatever the number of times thez do appear in the dataset.
- * &lt;strong&gt;Extreme observations&lt;/strong&gt; are defined by bad predictions if they are not present in the train dataset but with good predictions as soon as they are present at least once in the train dataset. That difference can be shown thanks to bootstrap approaches.&lt;/p&gt;
-
-&lt;p&gt;A package has been developped on GitHub: &lt;a href=&#34;https://github.com/hlorenzo/outlierSIR&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;outlierSIR&lt;/strong&gt;&lt;/a&gt; to detect outliers with sampling methods. It is possible to use 3 different approaches:
- * &lt;strong&gt;MONO&lt;/strong&gt;, where prediction errors are computed on the all dataset thanks to a model built on the all dataset.
- * &lt;strong&gt;TTR&lt;/strong&gt;, the all dataset is cut in 2 parts (Train and Test). A model is built on the Train dataset and errors are computed on the Test dataset. This process is performed through many Replications. So the name &lt;strong&gt;TTR&lt;/strong&gt;, Train-Test-Replications.
- * &lt;strong&gt;BOOT&lt;/strong&gt;, models are built on bootstrap samples of the all dataset and errors are computed on the all dataset.&lt;/p&gt;
-</description>
+      <guid>/projects/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Introduction à l&#39;apprentissage statistique</title>
-      <link>/teaching/ens_2020_pleynet/</link>
+      <title>Teachings</title>
+      <link>/teaching/</link>
       <pubDate>Tue, 21 Jan 2020 00:00:00 +0100</pubDate>
       
-      <guid>/teaching/ens_2020_pleynet/</guid>
-      <description>
-
-&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;
-
-&lt;p&gt;The L3 of &lt;a href=&#34;http://informatique.ens-lyon.fr/fr/formations/l3&#34; target=&#34;_blank&#34;&gt;Computer Science Department&lt;/a&gt; of the ENS Lyon gathers each year at the ski station of &amp;ldquo;Les Sept Laux&amp;rdquo; for an entire week of ski and with conferences mornings and nights. I have been invited to present my works and interests in a 2-hours slot. Is attached the presentation given for this event. The first part of this presentation (in French) introduces statistical learning while the second one (in English) details the results of my PhD defensis.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;/pdf/prez_ens_pleynet_2020.pdf&#34;&gt;&lt;i class=&#34;fa fa-file-pdf fa-2x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ddsPLS: A Package to Deal with Multiblock Supervised Problems with Missing Samples in High Dimension</title>
-      <link>/publication/rj/</link>
-      <pubDate>Thu, 03 Oct 2019 00:00:00 +0200</pubDate>
-      
-      <guid>/publication/rj/</guid>
+      <guid>/teaching/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Genetics project in the context of high dimensional data</title>
-      <link>/teaching/ensai_2019/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0200</pubDate>
+      <title>Overview</title>
+      <link>/tutorial/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
       
-      <guid>/teaching/ensai_2019/</guid>
-      <description>
-
-&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;
-
-&lt;p&gt;The &lt;a href=&#34;http://ensai.fr/en/apres-lensai/les-metiers-de-la-data-2/la-biostatistique/&#34; target=&#34;_blank&#34;&gt;Engineer diploma of Biostatistics&lt;/a&gt; is the last year speciality which deals with the questions of biostatistics. That course is an introduction to the project over the 10X data set that students had to deal with. It implied data analysis and interpretations comparing different methods.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;/pdf/ENSAI_1.pdf&#34;&gt;&lt;i class=&#34;fa fa-file-pdf fa-2x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Supervised and unsupervised analysis for high dimensinal data</title>
-      <link>/teaching/ensc_formation_continue/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0200</pubDate>
-      
-      <guid>/teaching/ensc_formation_continue/</guid>
-      <description>
-
-&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;
-
-&lt;p&gt;The &lt;a href=&#34;https://ensc.bordeaux-inp.fr/fr/big-data-et-statistique-pour-l-ingenieur&#34; target=&#34;_blank&#34;&gt;DU BDSI 2019&lt;/a&gt; is designed to fit with graduated and senior students who desire to keep on touch with forehead methods on big data and statistics for engineers.&lt;/p&gt;
-
-&lt;h1 id=&#34;current-course&#34;&gt;Current Course&lt;/h1&gt;
-
+      <guid>/tutorial/</guid>
+      <description>&lt;p&gt;This feature can be used for publishing content such as:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;What are supervised and unsupervised methods ?&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;What are &lt;strong&gt;PCA&lt;/strong&gt;, &lt;strong&gt;tSNE&lt;/strong&gt; and &lt;strong&gt;UMAP&lt;/strong&gt;. How can they be interpretable, pros and cons ?&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;What are the &lt;strong&gt;Lasso&lt;/strong&gt; and the &lt;strong&gt;logistic regression&lt;/strong&gt;, what is &lt;strong&gt;PLS&lt;/strong&gt; and how those methods can be integrated in a single one ?&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Three applications&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Ebola rVSV vaccine&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Meat tenderness&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Venous thrombosis&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Project or software documentation&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Online courses&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tutorials&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;/pdf/ENSC.pdf&#34;&gt;&lt;i class=&#34;fa fa-file-pdf fa-2x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The parent folder may be renamed, for example, to &lt;code&gt;docs&lt;/code&gt; for project documentation or &lt;code&gt;course&lt;/code&gt; for creating an online course.&lt;/p&gt;
+&lt;p&gt;To disable this feature, either delete the parent folder, or set &lt;code&gt;draft = true&lt;/code&gt; in the front matter of all its pages.&lt;/p&gt;
+&lt;p&gt;After renaming or deleting the parent folder, you may wish to update any &lt;code&gt;[[menu.main]]&lt;/code&gt; menu links to it in the &lt;code&gt;config.toml&lt;/code&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>An Original Methodology for the Selection of Biomarkers of Tenderness in Five Different Muscles</title>
-      <link>/publication/meat/</link>
-      <pubDate>Tue, 11 Jun 2019 00:00:00 +0200</pubDate>
+      <title>Publications</title>
+      <link>/publication/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
       
-      <guid>/publication/meat/</guid>
-      <description>&lt;p&gt;For several years, studies conducted for discovering tenderness biomarkers have proposed a list of 20 candidates. The aim of the present work was to develop an innovative methodology to select the most predictive among this list. The relative abundance of the proteins was evaluated on five muscles of 10 Holstein cows: gluteobiceps, semimembranosus, semitendinosu s, T riceps brachii and V astus lateralis. To select the most predictive biomarkers, a multi-block model was used: The Data-Driven Sparse Partial Least Square. S emimembranosus and vastus lateralis muscles tenderness could be well predicted (R²= 0.95 and 0.94 respectively) with a total of 7 out of the 5 times 20 biomarkers analyzed. An original result is that the predictive proteins were the same for these two muscles: µ-calpain, m-calpain, h2afx and Hsp40 measured in m. gluteobiceps and µ-calpain, m-calpain and Hsp70-8 measured in m. Triceps brachii. Thus, this method is well adapted to this set of data, making it possible to propose robust candidate biomarkers of tenderness that need to be validated on a larger population.&lt;/p&gt;
-
-&lt;p&gt;I work on this project with &lt;a href=&#34;https://www.math.u-bordeaux.fr/~jsaracco/&#34; target=&#34;_blank&#34;&gt;Jérôme Saracco&lt;/a&gt; and &lt;a href=&#34;https://www.agro-bordeaux.fr/membre/ellie-marie-pierre/&#34; target=&#34;_blank&#34;&gt;Marie-Pierre Ellies&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>High-dimensional multi-block analysis of factors associated with thrombin generation potential</title>
-      <link>/talk/ieee_cbms_2019/</link>
-      <pubDate>Thu, 06 Jun 2019 00:00:00 +0200</pubDate>
-      
-      <guid>/talk/ieee_cbms_2019/</guid>
+      <guid>/publication/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Apprentissage supervisé pour données massives multi-blocs incomplètes</title>
-      <link>/talk/jed_2019/</link>
-      <pubDate>Thu, 16 May 2019 00:00:00 +0200</pubDate>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/talk/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
       
-      <guid>/talk/jed_2019/</guid>
+      <guid>/talk/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Supervised Learning for Multi-Block Incomplete Data</title>
-      <link>/publication/csda/</link>
-      <pubDate>Mon, 14 Jan 2019 00:00:00 +0100</pubDate>
+      <title>Slides</title>
+      <link>/slides/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/publication/csda/</guid>
+      <guid>/slides/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>PLS and sparse PLS</title>
-      <link>/teaching/spls_cm/</link>
-      <pubDate>Thu, 22 Nov 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/teaching/spls_cm/</guid>
-      <description>
-
-&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;
-
-&lt;p&gt;The &lt;strong&gt;PLS&lt;/strong&gt; tool is powerfull to tackle the curse of dimensionality, especially if the dataset suffers form high colinearities or if $n&amp;lt;p$. It even works when the response matrix is multivariate!&lt;/p&gt;
-
-&lt;p&gt;That course, given to &lt;strong&gt;M2&lt;/strong&gt;-biostatistics students of &lt;strong&gt;ISPED&lt;/strong&gt;, &lt;a href=&#34;http://www.isped.u-bordeaux.fr/Formation/MasterenSantePublique/M2BIOSTAT.aspx&#34; target=&#34;_blank&#34;&gt;website&lt;/a&gt; introduces that tool and its sparse version thanks to which this is easily possible to select variables.&lt;/p&gt;
-
-&lt;h1 id=&#34;magistral-course&#34;&gt;Magistral course&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Recalls over linear regression and non-invertible cases,&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;PLS1&lt;/strong&gt; and &lt;strong&gt;PLS2&lt;/strong&gt; algorithms.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;sPLS&lt;/strong&gt; from the &lt;strong&gt;Lasso&lt;/strong&gt; point of view.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;A case study&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;/pdf/CM_sPLS.pdf&#34;&gt;&lt;i class=&#34;fa fa-file-pdf fa-2x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;practical-work-on-r&#34;&gt;Practical work on R&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;sPLS-DA on simulated datasets&lt;/strong&gt;: A &lt;strong&gt;4&lt;/strong&gt;-classes discrimination simulated problem to show the importance of the cross-validation process for supervized problems rather than explained variance &lt;a href=&#34;/html/TP_sPLS.html&#34;&gt;&lt;i class=&#34;fab fa-r-project fab-2x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;sPLS-DA for single-cell 10X dataset&lt;/strong&gt;: The application of the &lt;strong&gt;PLS&lt;/strong&gt; method to a Discriminant Analysis case for Single-cell &lt;em&gt;4&lt;/em&gt; classes discrimination:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Statement &lt;a href=&#34;/html/spls_single_cell.html&#34;&gt;&lt;i class=&#34;fab fa-r-project fab-2x&#34;&gt;&lt;/i&gt;&lt;/a&gt; &lt;a href=&#34;/R/crossValidate_splsDA.R&#34;&gt;&lt;i class=&#34;fab fa-r-project fab-2x&#34;&gt;&lt;/i&gt;&lt;/a&gt; &lt;a href=&#34;/csv/cellTypes_genes.zip&#34;&gt;&lt;i class=&#34;fas fa-file-archive fas-2x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Correction &lt;a href=&#34;/html/spls_single_cell_CORRECTION.html&#34;&gt;&lt;i class=&#34;fab fa-r-project fab-2x&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;sPLS regression&lt;/strong&gt;: The classical application to the sPLS regression model to the &lt;code&gt;liver.toxicity&lt;/code&gt; dataset:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Statement &lt;a href=&#34;/html/sPLS_regression.html&#34;&gt;&lt;i class=&#34;fab fa-r-project fab-2x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Correction &lt;a href=&#34;/html/sPLS_regression_correction.html&#34;&gt;&lt;i class=&#34;fab fa-r-project fab-2x&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>High-dimensional multi-block analysis of factors associated with thrombin generation potential</title>
-      <link>/publication/venousthrom/</link>
-      <pubDate>Mon, 19 Nov 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/publication/venousthrom/</guid>
-      <description>&lt;p&gt;The identification of novel biological factors associated with thrombin generation, a key biomarker of the coagulation process, remains a relevant strategy to disentangle pathophysiological mechanisms underlying the risk of venous thrombosis (VT). As part of the MARseille THrombosis Association Study (MARTHA), we measured whole blood DNA methylation levels, plasma levels of ~300 proteins, 3 thrombin generation biomarkers (endogeneous thrombin potential, peak and lagtime), clinical and genetic data in ~700 patients with VT. The application of a novel high-dimensional multi-levels statistical methodology we recently developed, the data driven sparse Partial Least Square method (\texttt{ddsPLS}), on the MARTHA datasets enabled us 1/ to confirm the role of a known mutation of the variability of endogenous thrombin potential and peak, 2/ to identify a new signature of 7 proteins strongly associated with lagtime.&lt;/p&gt;
-
-&lt;p&gt;I currently work on this project with &lt;a href=&#34;https://sites.google.com/site/misbahrazzaq6/&#34; target=&#34;_blank&#34;&gt;Misbah Razzaq&lt;/a&gt;, &lt;a href=&#34;https://www.math.u-bordeaux.fr/~jsaracco/&#34; target=&#34;_blank&#34;&gt;Jérôme Saracco&lt;/a&gt;, &lt;a href=&#34;https://www.researchgate.net/profile/David-Alexandre_Tregouet&#34; target=&#34;_blank&#34;&gt;David-Alexandre Trégouët&lt;/a&gt; and &lt;a href=&#34;https://www.bordeaux-population-health.center/en/&#34; target=&#34;_blank&#34;&gt;Rodolphe Thiébaut&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Supervised Learning for Multi-Block Incomplete Data</title>
-      <link>/projects/ddspls/</link>
-      <pubDate>Mon, 19 Nov 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/projects/ddspls/</guid>
-      <description>&lt;p&gt;In the high dimensional settings, a large number of variables, one objective is to select the relevant variables and thus to reduce the dimension. That subspace selection is often managed with supervised tools. However, some data can be missing, compromising the validity of the sub-space selection. We propose a Partial Least Square (&lt;em&gt;PLS&lt;/em&gt;), flavored method, called Multi-Block Data-Driven sparse PLS (&lt;em&gt;mdd-sPLS&lt;/em&gt;), allowing jointly variable selection and subspace estimation while training and testing missing data imputation through a new algorithm called Koh-Lanta. This method was challenged through simulations against existing methods such as mean impute, nipals, softImpute and imputeMFA. A common criterion was used to compare imputation convergence properties: the individual relative position stabilization in the optimization processes. The application of the supervised multi-block mdd-sPLS method to a rVSV-ZEBOV Ebola vaccine trial dataset revealed interesting and biologically consistent results.&lt;/p&gt;
-
-&lt;p&gt;I work on this project with &lt;a href=&#34;https://www.bordeaux-population-health.center/en/&#34; target=&#34;_blank&#34;&gt;Rodolphe Thiébaut&lt;/a&gt; and &lt;a href=&#34;https://www.math.u-bordeaux.fr/~jsaracco/&#34; target=&#34;_blank&#34;&gt;Jérôme Saracco&lt;/a&gt; which are my PhD-thesis advisors. That project is in fact my PhD project. It permits me to deal with a large variety of statistical tools and mathematical concepts but also with algorithms problems.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://cran.r-project.org/package=ddsPLS&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;CRAN-R&lt;/strong&gt;-package&lt;/a&gt;, &lt;a href=&#34;https://github.com/hlorenzo/ddsPLS&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;GitHub-R&lt;/strong&gt;-package&lt;/a&gt;,&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://pypi.org/project/py_ddspls/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;PyPi-Python&lt;/strong&gt;-package&lt;/a&gt;, &lt;a href=&#34;https://github.com/hlorenzo/py_ddsPLS&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;GitHub-Python&lt;/strong&gt;-package&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;/html/ddsPLS.html&#34;&gt;&lt;strong&gt;R&lt;/strong&gt;-Vignette&lt;/a&gt;,
-&lt;a href=&#34;https://pypi.org/project/py_ddspls/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Python&lt;/strong&gt;-vignette&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The preprint is available on &lt;a href=&#34;https://arxiv.org/abs/1901.04380&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;arXiv&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Thesis memory writing</title>
-      <link>/projects/these/</link>
-      <pubDate>Mon, 19 Nov 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/projects/these/</guid>
-      <description>&lt;p&gt;The result is available &lt;a href=&#34;/pdf/these_lorenzo_finale.pdf&#34;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Maths and function analysis</title>
-      <link>/teaching/double_cursus_analysis/</link>
-      <pubDate>Fri, 16 Nov 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/teaching/double_cursus_analysis/</guid>
-      <description>
-
-&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;
-
-&lt;p&gt;The &lt;a href=&#34;https://www.u-bordeaux.fr/Actualites/De-la-formation/Ecole-sante-sciences-un-parcours-d-excellence&#34; target=&#34;_blank&#34;&gt;Health and Science&lt;/a&gt; is established since 2107 and proposes to the students of second year medical studies, pharmacology and odontology an early formation to research.&lt;/p&gt;
-
-&lt;h1 id=&#34;current-course&#34;&gt;Current Course&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Introduction to noisy and uncertain models.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Recalls on function analysis, derivation rules and extrematlity conditions. Basis functions (exponential, logarithm, trigonometric).&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Introduction to Ordinary Differential Equations (ODE).&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Case study: The fall of an apple.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;/html/lorenzo_double_cursus_SOURCE/Ecole_Sante_Sciences.pdf&#34;&gt;&lt;i class=&#34;fa fa-file-pdf fa-2x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;practical-work-on-python&#34;&gt;Practical work on Python&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;General Introduction&lt;/strong&gt;: The language, its main data variable structures and an example of bivariate scatterplot visualisation &lt;a href=&#34;/html/lorenzo_double_cursus_SOURCE/Programmation Ecole Sante Sciences - analyse.html&#34;&gt;&lt;i class=&#34;fab fa-python fab-2x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Gradient Descent&lt;/strong&gt;: A light study of the algorithm for a real valued function of a single real variable and presentation of the performances &lt;a href=&#34;/html/lorenzo_double_cursus_SOURCE/Double_cursus_td1_correction.html&#34;&gt;&lt;i class=&#34;fab fa-python fab-2x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Maths and linear algebra</title>
-      <link>/teaching/double_cursus_analysis_algebre/</link>
-      <pubDate>Fri, 16 Nov 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/teaching/double_cursus_analysis_algebre/</guid>
-      <description>
-
-&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;
-
-&lt;p&gt;The &lt;a href=&#34;https://www.u-bordeaux.fr/Actualites/De-la-formation/Ecole-sante-sciences-un-parcours-d-excellence&#34; target=&#34;_blank&#34;&gt;Health and Science&lt;/a&gt; is established since 2107 and proposes to the students of second year medical studies, pharmacology and odontology an early formation to research.&lt;/p&gt;
-
-&lt;h1 id=&#34;course&#34;&gt;Course&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Physical problem example: two weights bound with a spring. System of two bounded ordinary differntial equations (&lt;strong&gt;EDO&lt;/strong&gt;). Solution with no linear algebra general theory.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Linear algebra discovering: vectors, matrices, basis operations: sum, product, trace, determinant, inverse. Notions of &lt;em&gt;free family&lt;/em&gt;. Diagonalisation.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Two applied examples:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Square inverse problem (as much equations as variables): solution with matrix inversion.&lt;/li&gt;
-&lt;li&gt;Solve a system of coupled linear &lt;strong&gt;EDO&lt;/strong&gt; thanks to diagonalisation.
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;/html/lorenzo_double_cursus_SOURCE/Ecole_Sante_Sciences_II.pdf&#34;&gt;&lt;i class=&#34;fa fa-file-pdf fa-2x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;practical-work-on-python&#34;&gt;Practical work on Python&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;General formalism over Python for vectors and matrices.&lt;/li&gt;
-&lt;li&gt;How can we do the &lt;em&gt;loops&lt;/em&gt; ?&lt;/li&gt;
-&lt;li&gt;Square linear problem resolution.&lt;/li&gt;
-&lt;li&gt;Eigen-space decomposition.&lt;/li&gt;
-&lt;li&gt;Numerical solution of the problem: two weights bound with a spring.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;/html/lorenzo_double_cursus_SOURCE/Programmation Ecole Sante SciencesUntitled-Algebra.html&#34;&gt;&lt;i class=&#34;fab fa-python fab-2x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
     </item>
     
   </channel>

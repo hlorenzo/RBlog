@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="generator" content="Source Themes Academic 3.1.1">
-  <meta name="generator" content="Hugo 0.51" />
+  <meta name="generator" content="Hugo 0.83.1" />
   <meta name="author" content="Hadrien Lorenzo">
 
   
@@ -540,15 +540,11 @@
 
     <div class="article-style" itemprop="articleBody">
       <p>That project uses resampling methods, such as train/test dataset cuts or bootstrap to estimate the to be predicted qualities of an observation.</p>
-
-<p>It has been noticed that a difference can be made between outliers and extreme observations depeding on the number of times this observation is in the train dataset:
- * <strong>Outliers</strong> are defined by bad predictions whatever the number of times thez do appear in the dataset.
- * <strong>Extreme observations</strong> are defined by bad predictions if they are not present in the train dataset but with good predictions as soon as they are present at least once in the train dataset. That difference can be shown thanks to bootstrap approaches.</p>
-
-<p>A package has been developped on GitHub: <a href="https://github.com/hlorenzo/outlierSIR" target="_blank"><strong>outlierSIR</strong></a> to detect outliers with sampling methods. It is possible to use 3 different approaches:
- * <strong>MONO</strong>, where prediction errors are computed on the all dataset thanks to a model built on the all dataset.
- * <strong>TTR</strong>, the all dataset is cut in 2 parts (Train and Test). A model is built on the Train dataset and errors are computed on the Test dataset. This process is performed through many Replications. So the name <strong>TTR</strong>, Train-Test-Replications.
- * <strong>BOOT</strong>, models are built on bootstrap samples of the all dataset and errors are computed on the all dataset.</p>
+<p>It has been noticed that a difference can be made between outliers and extreme observations depeding on the number of times this observation is in the train dataset:</p>
+<!-- raw HTML omitted -->
+<p>A package has been developped on GitHub (<a href="https://github.com/hlorenzo/outlierSIR"><strong>outlierSIR</strong></a>) to detect outliers with sampling methods. It is possible to use 3 different approaches:</p>
+<!-- raw HTML omitted -->
+<p>This work is done with Jérôme Saracco.</p>
 
     </div>
 
@@ -643,7 +639,7 @@
   
 
   <p class="powered-by">
-    &copy; 2018 &middot; 
+    © 2018 &middot; 
 
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
@@ -788,7 +784,7 @@
     
     
     
-    <script src="/js/academic.min.2861db6bcf2db4b5eade32c795453e47.js"></script>
+    <script src="/js/academic.min.e948c811d694f437364bde293f1fb442.js"></script>
 
     
 

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on </title>
@@ -7,19 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0100</lastBuildDate><atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Outliers and SIR models</title>
       <link>/projects/siroutlier/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0100</pubDate>
       
       <guid>/projects/siroutlier/</guid>
-      <description>That project uses resampling methods, such as train/test dataset cuts or bootstrap to estimate the to be predicted qualities of an observation.
-It has been noticed that a difference can be made between outliers and extreme observations depeding on the number of times this observation is in the train dataset: * Outliers are defined by bad predictions whatever the number of times thez do appear in the dataset. * Extreme observations are defined by bad predictions if they are not present in the train dataset but with good predictions as soon as they are present at least once in the train dataset.</description>
+      <description>How to detect outliers in SIR models.</description>
     </item>
     
     <item>
@@ -28,7 +23,7 @@ It has been noticed that a difference can be made between outliers and extreme o
       <pubDate>Mon, 19 Nov 2018 00:00:00 +0100</pubDate>
       
       <guid>/projects/ddspls/</guid>
-      <description>In the high dimensional settings, a large number of variables, one objective is to select the relevant variables and thus to reduce the dimension. That subspace selection is often managed with supervised tools. However, some data can be missing, compromising the validity of the sub-space selection. We propose a Partial Least Square (PLS), flavored method, called Multi-Block Data-Driven sparse PLS (mdd-sPLS), allowing jointly variable selection and subspace estimation while training and testing missing data imputation through a new algorithm called Koh-Lanta.</description>
+      <description>My objective is to deal with entire missing rows in supervised block-structured data sets. As a spicy detail data sets are build on a few participants and a lot of variables.</description>
     </item>
     
     <item>
@@ -37,7 +32,7 @@ It has been noticed that a difference can be made between outliers and extreme o
       <pubDate>Mon, 19 Nov 2018 00:00:00 +0100</pubDate>
       
       <guid>/projects/these/</guid>
-      <description>The result is available here.</description>
+      <description>The objective was to write a thesis memory.</description>
     </item>
     
   </channel>
