@@ -9,6 +9,24 @@
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate><atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Advanced topics in Sliced Inverse Regression.</title>
+      <link>/publication/jmvagirard/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/jmvagirard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data-Driven Sparse Partial Least Squares.</title>
+      <link>/publication/sadm/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/sadm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ddsPLS: A Package to Deal with Multiblock Supervised Problems with Missing Samples in High Dimension</title>
       <link>/publication/rj/</link>
       <pubDate>Thu, 03 Oct 2019 00:00:00 +0200</pubDate>
@@ -24,15 +42,6 @@
       
       <guid>/publication/meat/</guid>
       <description>For several years, studies conducted for discovering tenderness biomarkers have proposed a list of 20 candidates. The aim of the present work was to develop an innovative methodology to select the most predictive among this list. The relative abundance of the proteins was evaluated on five muscles of 10 Holstein cows: gluteobiceps, semimembranosus, semitendinosu s, T riceps brachii and V astus lateralis. To select the most predictive biomarkers, a multi-block model was used: The Data-Driven Sparse Partial Least Square.</description>
-    </item>
-    
-    <item>
-      <title>Supervised Learning for Multi-Block Incomplete Data</title>
-      <link>/publication/csda/</link>
-      <pubDate>Mon, 14 Jan 2019 00:00:00 +0100</pubDate>
-      
-      <guid>/publication/csda/</guid>
-      <description></description>
     </item>
     
     <item>

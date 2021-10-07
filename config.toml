@@ -52,19 +52,19 @@ enableGitInfo = false
 
   # Your details.
   name = "Hadrien Lorenzo"
-  role = "PhD in Biostatistics and engineer in applied Mathematics"
+  role = "Postdoc at Inria Bordeaux Sud-Ouest"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Bordeaux University", url = "" } ]
+  organizations = [ { name = "Inria BSO", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "harien.lorenzo.2015@gmail.com"
-  address = "Université de Bordeaux, 146 Rue Léo Saignat, 33000 Bordeaux, France"
-  phone = "+335 57 57 13 93"
+  address = "200 Av. de la Vieille Tour, 33400 Talence, France"
+  phone = "+33 5 24 57 40 00"
   telegram = ""
   keybase = ""  # Your keybase.io username.
 
