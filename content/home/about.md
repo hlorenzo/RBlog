@@ -10,9 +10,13 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "Machine Learning",
+    "Statistical modelling",
+    "Bootstrap",
     "Missing Value Treatment",
-    "Biostatistics and genetics",
+    "Variable selection",
+    "SIR",
+    "PLS",
+    "Machine Learning",
     "Teaching",
     "Climbing and Mountaineering"
   ]
@@ -31,8 +35,8 @@ weight = 1
 +++
 
 # Biography
-I am a PhD in Biostatistics and currently in PostDoc in the [SISTM team](https://www.bordeaux-population-health.center/en/teams/statistics-in-systems-biology-and-translationnal-medicine-sistm/). I work on analysing high dimensional datasets (*just a few individuals and thousands of variables*) with longitudinal and or multi-block structures. **SVD**-based methods are what I love the most and I currently work on dealing with **missing values** in supervised context.
+I am a PostDoc in the [ASTRAL team](https://www.inria.fr/fr/astral). I work on analysing high dimensional datasets (*just a few individuals and thousands of variables*) with longitudinal and or multi-block structures. I currently work on dealing with **missing values** in supervised context, which is the future of data analysis problems I think (not my work but this problem I mean...).
 
-**SISTM** is mainly devoted to vaccine research and clinical trial data analyses in the context of largely scaled datasets. This is on of the few [INSERM](https://www.inserm.fr/en)/[INRIA](https://www.inria.fr/en/centre/bordeaux) teams.
+**ASTRAL**, Advanced StatisTical infeRence And controL. The research activities of our team mainly focus on the development of advanced statistical and probabilistic methods for the analysis and the control of complex stochastic systems. Our approach is based on the classic triptych consisting of the following topics: Statistical/stochastic modeling, Estimation/calibration and Control/decision.
 
-I unreasonably work on the [**ddsPLS** (CRAN-R-package)](https://cran.r-project.org/package=ddsPLS) for which I build a [**R**-Vignette](/html/ddsPLS.html). That vignette is updated as often as I can. This is a titanous task and I also work on a [**py_ddspls** (GitHub-Python-package)](https://github.com/hlorenzo/py_ddsPLS) which is under developpment. My wish is to be useful to both of the communities which have so much to share!
+I unreasonably work on R and you can view the current stage on my packages on (GitHub)](https://github.com/hlorenzo). I also work on a [**py_ddspls** (GitHub-Python-package)](https://github.com/hlorenzo/py_ddsPLS) which is under developpment. My wish is to be useful to both of the communities which have so much to share!
