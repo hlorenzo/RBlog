@@ -19,17 +19,29 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "PostDoc"
+  company = "[ASTRAL team](https://www.inria.fr/en/astral/)"
+  company_url = ""
+  location = "Talence"
+  date_start = "2019-10-01"
+  date_end = ""
+  description = """
+  Perform high dimensional analyses through statistical modeling keeping interpretability
+  """
+
+[[experience]]
   title = "PhD"
   company = "[SISTM team,  U1219](https://www.bordeaux-population-health.center/en/teams/statistics-in-systems-biology-and-translationnal-medicine-sistm/)"
   company_url = ""
   location = "Bordeaux"
   date_start = "2016-10-01"
-  date_end = ""
+  date_end = "2019-10-01"
   description = """
   Data analysis and eigen-space decomposition for supervised problems. Compressing many thoughts :
   
   > Missing Value **+** High-dimension **=** Act carefully
   """
+
 
 [[experience]]
   title = "Research Engineer"
