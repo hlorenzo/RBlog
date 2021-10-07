@@ -1,5 +1,5 @@
 +++
-title = "D´etection d’individus atypiques en r´egression SIR."
+title = "Détection d’individus atypiques en régression SIR."
 date = 2021-06-09T00:00:00  # Schedule page publish date.
 draft = false
 
