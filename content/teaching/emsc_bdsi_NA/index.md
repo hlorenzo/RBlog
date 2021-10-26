@@ -5,7 +5,7 @@ date = 2021-10-16T00:00:00
 
 summary = "What are missing values and how to deal with them using R classical packages."
 
-tags = ["French","Formation continue","Visualization"]
+tags = ["French","Formation continue","Visualization","Missing values"]
 
 # Optional external URL for project (replaces project detail page).
 # external_link = "static/pdf/DU_BDSI_2021.pdf"
@@ -23,7 +23,7 @@ tags = ["French","Formation continue","Visualization"]
 
 # Overview
 
-The [DU BDSI 2019](https://ensc.bordeaux-inp.fr/fr/big-data-et-statistique-pour-l-ingenieur) is designed to fit with graduated and senior students who desire to keep on touch with forehead methods on big data and statistics for engineers.
+The [DU BDSI](https://ensc.bordeaux-inp.fr/fr/big-data-et-statistique-pour-l-ingenieur) is designed to fit with graduated and senior students who desire to keep on touch with forehead methods on big data and statistics for engineers.
  
 # Current Course
 
