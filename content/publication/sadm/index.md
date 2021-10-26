@@ -1,5 +1,5 @@
 +++
-title = "Data-Driven Sparse Partial Least Squares."
+title = "Data-Driven Sparse Partial Least Squares"
 date = 2021-01-14T00:00:00
 draft = false
 
@@ -40,7 +40,7 @@ selected = true
 tags = []
 
 # Links (optional).
-url_pdf = "https://hal.inria.fr/view/index/docid/3368956"
+url_pdf = "https://hal.inria.fr/hal-03368956/document"
 url_source = "https://hal.inria.fr/view/index/docid/3368956"
 
 # Custom links (optional).

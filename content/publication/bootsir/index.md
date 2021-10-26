@@ -1,5 +1,5 @@
 +++
-title = "Computational Outlier Detection Methods in Sliced Inverse Regression."
+title = "Computational Outlier Detection Methods in Sliced Inverse Regression"
 date = 2021-06-15T00:00:00
 draft = false
 
@@ -40,7 +40,7 @@ selected = true
 tags = []
 
 # Links (optional).
-url_pdf = "https://link.springer.com/chapter/10.1007/978-3-030-73249-3_6"
+url_pdf = "https://hal.inria.fr/hal-03369250/document"
 #url_source = "https://hal.inria.fr/view/index/docid/3368956"
 
 # Custom links (optional).
