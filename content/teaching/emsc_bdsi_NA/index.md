@@ -8,7 +8,7 @@ summary = "What are missing values and how to deal with them using R classical p
 tags = ["French","Formation continue","Visualization"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "static/pdf/DU_BDSI_2021.pdf"
+# external_link = "static/pdf/DU_BDSI_2021.pdf"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
