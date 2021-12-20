@@ -12,7 +12,7 @@ draft = false
 authors = ["H Lorenzo","O Cloarec","J Saracco"]
 
 # Abstract and optional shortened version.
-abstract = "An reflexion about missing data imputation in the supervised context. "
+abstract = "A reflexion about missing data imputation in the supervised context, with a solution and simulation results."
 
 # Name of event and optional event URL.
 event = "CMStatistics 2021, King's College London, UK"
