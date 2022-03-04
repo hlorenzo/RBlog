@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 03 Jul 2019 00:00:00 +0200</lastBuildDate><atom:link href="/tags/formation-continue/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Oct 2021 00:00:00 +0200</lastBuildDate><atom:link href="/tags/formation-continue/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to deal with missing values</title>
+      <link>/teaching/emsc_bdsi_na/</link>
+      <pubDate>Sat, 16 Oct 2021 00:00:00 +0200</pubDate>
+      
+      <guid>/teaching/emsc_bdsi_na/</guid>
+      <description>What are missing values and how to deal with them using R classical packages.</description>
+    </item>
+    
     <item>
       <title>Supervised and unsupervised analysis for high dimensinal data</title>
       <link>/teaching/ensc_formation_continue/</link>

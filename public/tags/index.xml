@@ -7,7 +7,43 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 21 Jan 2020 00:00:00 +0100</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Oct 2021 00:00:00 +0200</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Formation continue</title>
+      <link>/tags/formation-continue/</link>
+      <pubDate>Sat, 16 Oct 2021 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/formation-continue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>French</title>
+      <link>/tags/french/</link>
+      <pubDate>Sat, 16 Oct 2021 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/french/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Missing values</title>
+      <link>/tags/missing-values/</link>
+      <pubDate>Sat, 16 Oct 2021 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/missing-values/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualization</title>
+      <link>/tags/visualization/</link>
+      <pubDate>Sat, 16 Oct 2021 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/visualization/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>English</title>
       <link>/tags/english/</link>
@@ -18,29 +54,11 @@
     </item>
     
     <item>
-      <title>French</title>
-      <link>/tags/french/</link>
-      <pubDate>Tue, 21 Jan 2020 00:00:00 +0100</pubDate>
-      
-      <guid>/tags/french/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Statistical Learning</title>
       <link>/tags/statistical-learning/</link>
       <pubDate>Tue, 21 Jan 2020 00:00:00 +0100</pubDate>
       
       <guid>/tags/statistical-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Formation continue</title>
-      <link>/tags/formation-continue/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/formation-continue/</guid>
       <description></description>
     </item>
     
@@ -77,15 +95,6 @@
       <pubDate>Wed, 03 Jul 2019 00:00:00 +0200</pubDate>
       
       <guid>/tags/t-sne/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Visualization</title>
-      <link>/tags/visualization/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/visualization/</guid>
       <description></description>
     </item>
     

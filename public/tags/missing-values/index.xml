@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Missing values on </title>
+    <link>/tags/missing-values/</link>
+    <description>Recent content in Missing values on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 16 Oct 2021 00:00:00 +0200</lastBuildDate><atom:link href="/tags/missing-values/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to deal with missing values</title>
+      <link>/teaching/emsc_bdsi_na/</link>
+      <pubDate>Sat, 16 Oct 2021 00:00:00 +0200</pubDate>
+      
+      <guid>/teaching/emsc_bdsi_na/</guid>
+      <description>What are missing values and how to deal with them using R classical packages.</description>
+    </item>
+    
+  </channel>
+</rss>
