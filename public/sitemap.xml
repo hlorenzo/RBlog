@@ -43,6 +43,14 @@
     
     <url>
     
+      <loc>/teaching/bdsi_na_2022/</loc>
+      <lastmod>2021-10-16T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/teaching/emsc_bdsi_na/</loc>
       <lastmod>2021-10-16T00:00:00+02:00</lastmod>
     </url>
@@ -52,6 +60,22 @@
     <url>
     
       <loc>/tags/missing-values/</loc>
+      <lastmod>2021-10-16T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/teaching/bdsi_pls_2022/</loc>
+      <lastmod>2021-10-16T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/pls/</loc>
       <lastmod>2021-10-16T00:00:00+02:00</lastmod>
     </url>
     
@@ -220,14 +244,6 @@
     <url>
     
       <loc>/tags/pca/</loc>
-      <lastmod>2019-07-03T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/pls/</loc>
       <lastmod>2019-07-03T00:00:00+02:00</lastmod>
     </url>
     
@@ -445,6 +461,22 @@
     
       <loc>/talk/isped_2018/</loc>
       <lastmod>2018-07-05T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/talk/chimiobrest_2022/</loc>
+      <lastmod>2018-06-01T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/talk/jds_2022/</loc>
+      <lastmod>2018-06-01T00:00:00+02:00</lastmod>
     </url>
     
   
