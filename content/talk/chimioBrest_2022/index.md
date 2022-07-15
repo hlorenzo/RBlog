@@ -1,6 +1,6 @@
 +++
 title = "Koh-Lanta, missing data imputation in supervised context"
-date = 2018-06-01T00:00:00  # Schedule page publish date.
+date = 2022-06-08T00:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
@@ -22,7 +22,7 @@ event_url = "http://jds2018.sfds.asso.fr/programmes.html"
 location = "Brest, France"
 
 # Is this a selected talk? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.

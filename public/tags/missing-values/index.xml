@@ -9,16 +9,7 @@
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sat, 16 Oct 2021 00:00:00 +0200</lastBuildDate><atom:link href="/tags/missing-values/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>How to deal with missing values</title>
-      <link>/teaching/bdsi_na_2022/</link>
-      <pubDate>Sat, 16 Oct 2021 00:00:00 +0200</pubDate>
-      
-      <guid>/teaching/bdsi_na_2022/</guid>
-      <description>What are missing values and how to deal with them using R classical packages.</description>
-    </item>
-    
-    <item>
-      <title>How to deal with missing values</title>
+      <title>How to deal with missing values, 2021</title>
       <link>/teaching/emsc_bdsi_na/</link>
       <pubDate>Sat, 16 Oct 2021 00:00:00 +0200</pubDate>
       

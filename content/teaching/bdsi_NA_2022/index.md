@@ -1,9 +1,9 @@
 +++
-title = "How to deal with missing values"
+title = "How to deal with missing values, 2022"
 
-date = 2021-10-16T00:00:00
+date = 2022-10-16T00:00:00
 
-summary = "What are missing values and how to deal with them using R classical packages."
+summary = "Some new things."
 
 tags = ["French","Formation continue","Visualization","Missing values"]
 

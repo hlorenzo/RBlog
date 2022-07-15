@@ -9,6 +9,24 @@
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate><atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Sélection de variables en régression SIR par seuillage doux/dur de la matrice d&#39;intérêt.</title>
+      <link>/talk/jds_2022/</link>
+      <pubDate>Thu, 16 Jun 2022 00:00:00 +0200</pubDate>
+      
+      <guid>/talk/jds_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Koh-Lanta, missing data imputation in supervised context</title>
+      <link>/talk/chimiobrest_2022/</link>
+      <pubDate>Wed, 08 Jun 2022 00:00:00 +0200</pubDate>
+      
+      <guid>/talk/chimiobrest_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Detection of atypical individuals in SIR regression</title>
       <link>/talk/dataquitaine2022/</link>
       <pubDate>Thu, 10 Feb 2022 14:00:00 +0100</pubDate>
@@ -68,24 +86,6 @@
       <pubDate>Thu, 05 Jul 2018 00:00:00 +0200</pubDate>
       
       <guid>/talk/isped_2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Koh-Lanta, missing data imputation in supervised context</title>
-      <link>/talk/chimiobrest_2022/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/talk/chimiobrest_2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sélection de variables en régression SIR par seuillage doux/dur de la matrice d&#39;intérêt.</title>
-      <link>/talk/jds_2022/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/talk/jds_2022/</guid>
       <description></description>
     </item>
     

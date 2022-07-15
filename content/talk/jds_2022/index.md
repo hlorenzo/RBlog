@@ -1,6 +1,6 @@
 +++
 title = "Sélection de variables en régression SIR par seuillage doux/dur de la matrice d'intérêt."
-date = 2018-06-01T00:00:00  # Schedule page publish date.
+date = 2022-06-16T00:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
@@ -22,7 +22,7 @@ event_url = "https://jds22.sciencesconf.org"
 location = "Campus de La Doua de l'Université Claude Bernard Lyon 1, France"
 
 # Is this a selected talk? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
