@@ -40,8 +40,7 @@ selected = true
 tags = []
 
 # Links (optional).
-url_pdf = "http://www.negative-results.org/wp-content/uploads/2021/05/The-relationships-between-Sensory-and-Nutritional-Qualities-are-not-consistent-from-one-muscle-to-another-in-the-same-bovine-carcass.pdf"
-url_source = "http://www.negative-results.org/index.php/2021/05/13/no-observable-sleep-disturbance-in-two-rat-models-with-induced-osteoarthritis/"
+url_pdf = "pdf/negatRes.pdf"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
