@@ -62,7 +62,7 @@ enableGitInfo = false
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "harien.lorenzo.2015@gmail.com"
+  email = "hadrien.lorenzo.2015@gmail.com"
   address = "200 Av. de la Vieille Tour, 33400 Talence, France"
   phone = "+33 5 24 57 40 00"
   telegram = ""
