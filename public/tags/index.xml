@@ -7,11 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 16 Oct 2021 00:00:00 +0200</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Oct 2022 00:00:00 +0200</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Formation continue</title>
       <link>/tags/formation-continue/</link>
-      <pubDate>Sat, 16 Oct 2021 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 16 Oct 2022 00:00:00 +0200</pubDate>
       
       <guid>/tags/formation-continue/</guid>
       <description></description>
@@ -20,7 +20,7 @@
     <item>
       <title>French</title>
       <link>/tags/french/</link>
-      <pubDate>Sat, 16 Oct 2021 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 16 Oct 2022 00:00:00 +0200</pubDate>
       
       <guid>/tags/french/</guid>
       <description></description>
@@ -29,9 +29,18 @@
     <item>
       <title>Missing values</title>
       <link>/tags/missing-values/</link>
-      <pubDate>Sat, 16 Oct 2021 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 16 Oct 2022 00:00:00 +0200</pubDate>
       
       <guid>/tags/missing-values/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualization</title>
+      <link>/tags/visualization/</link>
+      <pubDate>Sun, 16 Oct 2022 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/visualization/</guid>
       <description></description>
     </item>
     
@@ -41,15 +50,6 @@
       <pubDate>Sat, 16 Oct 2021 00:00:00 +0200</pubDate>
       
       <guid>/tags/pls/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Visualization</title>
-      <link>/tags/visualization/</link>
-      <pubDate>Sat, 16 Oct 2021 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/visualization/</guid>
       <description></description>
     </item>
     

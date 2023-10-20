@@ -52,19 +52,19 @@ enableGitInfo = false
 
   # Your details.
   name = "Hadrien Lorenzo"
-  role = "Postdoc at Inria Bordeaux Sud-Ouest"
+  role = "Associate Professor at Aix-Marseille University"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Inria BSO", url = "" } ]
+  organizations = [ { name = "Aix-Marseille University", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "hadrien.lorenzo.2015@gmail.com"
-  address = "200 Av. de la Vieille Tour, 33400 Talence, France"
-  phone = "+33 5 24 57 40 00"
+  email = "hadrien.lorenzo.2015@univ-amu.fr"
+  address = "3 Place Victor Hugo"
+  phone = ""
   telegram = ""
   keybase = ""  # Your keybase.io username.
 
@@ -251,7 +251,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+    link = "mailto:hadrien.lorenzo@univ-amu.fr"  # For a direct email link, use "mailto:test@example.org".
     
   [[params.social]]
     icon = "github"
@@ -317,11 +317,6 @@ enableGitInfo = false
   name = "Experience"
   url = "#experience"
   weight = 7
-  
-[[menu.main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 8
 
 
 # Link to a PDF of your resume/CV from the menu.
