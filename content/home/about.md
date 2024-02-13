@@ -23,9 +23,6 @@ Theory" "Bayesian Statistics", "PLS", "Machine Learning", "Teaching",
 
 # List your qualifications (such as academic degrees).
 
-\[\[education.courses\]\] course = "Associate Professor at Aix-Marseille
-University" institution = "Aix-Marseille University" year = 2023
-
 \[\[education.courses\]\] course = "PhD in Biostatistics" institution =
 "Université de Bordeaux" year = 2019
 
