@@ -4,8 +4,6 @@ editor_options:
     wrap: 72
 ---
 
-+++
-
 # About/Biography widget.
 
 widget = "about" active = true date = 2016-04-20T00:00:00
@@ -30,8 +28,6 @@ Theory", "Bayesian Statistics", "PLS", "Machine Learning", "Teaching",
 for Image and Signal Processing" institution = "CentraleSupelec and
 Paris-Sud University" year = 2015
 
-+++
-
 # Biography
 
 I am a Associate Professor at Aix-Marseille University (**AMU**). I
@@ -43,16 +39,16 @@ one of the teams of the Institut de Mathématiques de Marseille
 
 I currently teach to
 
--   [Licence
-    Mathématiques
-    et Informatique Appliquées aux Sciences Humaines et Sociales (**MIASHS**)](https://sciences.univ-amu.fr/fr/formation/licences/licence-miashs)
--   [Master Mathématiques Appliquées,
-    Statistique (**MAS**)](https://sciences.univ-amu.fr/fr/formation/masters/master-mathematiques-appliquees-statistique)
+-   [Licence Mathématiques et Informatique Appliquées aux Sciences
+    Humaines et Sociales
+    (**MIASHS**)](https://sciences.univ-amu.fr/fr/formation/licences/licence-miashs)
+-   [Master Mathématiques Appliquées, Statistique
+    (**MAS**)](https://sciences.univ-amu.fr/fr/formation/masters/master-mathematiques-appliquees-statistique)
 
 **I2M** is an Joint Research Unit (UMR in french) placed under the
 triple tutelage of the CNRS, **AMU** and the École Centrale de
 Marseille.
 
 I unreasonably work on R and you can view the current stage on my
-packages on [**GitHub**](<https://github.com/hlorenzo>). My wish is to be
+packages on [**GitHub**](https://github.com/hlorenzo). My wish is to be
 useful to both of the communities which have so much to share!
