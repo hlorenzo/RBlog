@@ -1,42 +1,61 @@
+---
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
 +++
+
 # About/Biography widget.
-widget = "about"
-active = true
-date = 2016-04-20T00:00:00
+
+widget = "about" active = true date = 2016-04-20T00:00:00
 
 # Order that this section will appear in.
+
 weight = 1
 
 # List your academic interests.
-[interests]
-  interests = [
-    "Statistical modelling",
-    "Bootstrap",
-    "Missing Value Treatment",
-    "Variable selection",
-    "SIR",
-    "PLS",
-    "Machine Learning",
-    "Teaching",
-    "Climbing and Mountaineering"
-  ]
+
+\[interests\] interests = \[ "Statistical modelling", "Missing Value
+Treatment", "Variable selection", "SIR", "Bootstrap", "Extreme Value
+Theory" "Bayesian Statistics", "PLS", "Machine Learning", "Teaching",
+"Climbing and Mountaineering" \]
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Biostatistics"
-  institution = "Université de Bordeaux"
-  year = 2019
 
-[[education.courses]]
-  course = "Research Master, Applied Mathematics for Image and Signal Processing"
-  institution = "CentraleSupelec and Paris-Sud University"
-  year = 2015
-  
+\[\[education.courses\]\] course = "Associate Professor at Aix-Marseille
+University" institution = "Aix-Marseille University" year = 2023
+
+\[\[education.courses\]\] course = "PhD in Biostatistics" institution =
+"Université de Bordeaux" year = 2019
+
+\[\[education.courses\]\] course = "Research Master, Applied Mathematics
+for Image and Signal Processing" institution = "CentraleSupelec and
+Paris-Sud University" year = 2015
+
 +++
 
 # Biography
-I am a PostDoc in the [ASTRAL team](https://www.inria.fr/fr/astral). I work on analysing high dimensional datasets (*just a few individuals and thousands of variables*) with longitudinal and or multi-block structures. I currently work on dealing with **missing values** in supervised context, which is the future of data analysis problems I think (not my work but this problem I mean...).
 
-**ASTRAL**, Advanced StatisTical infeRence And controL. The research activities of our team mainly focus on the development of advanced statistical and probabilistic methods for the analysis and the control of complex stochastic systems. Our approach is based on the classic triptych consisting of the following topics: Statistical/stochastic modeling, Estimation/calibration and Control/decision.
+I am a Associate Professor at Aix-Marseille University (**AMU**). I
+teach for all university degrees at the **AMU**. My reserches are
+performed in the [**Statistical
+team**](https://www.i2m.univ-amu.fr/la-recherche/groupes-scientifiques/groupe-mathematiques-de-laleatoire-alea/equipe-statistique-sta/),
+one of the teams of the Institut de Mathématiques de Marseille
+[(**I2M**, UMR 7373)](https://www.i2m.univ-amu.fr/en/home/).
 
-I unreasonably work on R and you can view the current stage on my packages on (GitHub)](https://github.com/hlorenzo). I also work on a [**py_ddspls** (GitHub-Python-package)](https://github.com/hlorenzo/py_ddsPLS) which is under developpment. My wish is to be useful to both of the communities which have so much to share!
+I currently teach to
+
+-   [Licence
+    Mathématiques
+    et Informatique Appliquées aux Sciences Humaines et Sociales (**MIASHS**)](https://sciences.univ-amu.fr/fr/formation/licences/licence-miashs)
+-   [Master Mathématiques Appliquées,
+    Statistique (**MAS**)](https://sciences.univ-amu.fr/fr/formation/masters/master-mathematiques-appliquees-statistique)
+
+**I2M** is an Joint Research Unit (UMR in french) placed under the
+triple tutelage of the CNRS, **AMU** and the École Centrale de
+Marseille.
+
+I unreasonably work on R and you can view the current stage on my
+packages on (GitHub)\](<https://github.com/hlorenzo>). My wish is to be
+useful to both of the communities which have so much to share!
