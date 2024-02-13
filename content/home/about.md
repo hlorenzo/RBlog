@@ -39,7 +39,7 @@ Paris-Sud University" year = 2015
 
 I am a Associate Professor at Aix-Marseille University (**AMU**). I
 teach for all university degrees at the **AMU**. My reserches are
-performed in the [**Statistical
+performed in the Statistical group of the [**ALEA
 team**](https://www.i2m.univ-amu.fr/la-recherche/groupes-scientifiques/groupe-mathematiques-de-laleatoire-alea/equipe-statistique-sta/),
 one of the teams of the Institut de Mathématiques de Marseille
 [(**I2M**, UMR 7373)](https://www.i2m.univ-amu.fr/en/home/).
