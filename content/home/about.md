@@ -18,7 +18,7 @@ weight = 1
 
 \[interests\] interests = \[ "Statistical modelling", "Missing Value
 Treatment", "Variable selection", "SIR", "Bootstrap", "Extreme Value
-Theory" "Bayesian Statistics", "PLS", "Machine Learning", "Teaching",
+Theory", "Bayesian Statistics", "PLS", "Machine Learning", "Teaching",
 "Climbing and Mountaineering" \]
 
 # List your qualifications (such as academic degrees).
