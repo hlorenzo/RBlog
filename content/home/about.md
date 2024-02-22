@@ -1,4 +1,11 @@
+---
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
 +++
+
 # About/Biography widget.
 widget = "about"
 active = true
