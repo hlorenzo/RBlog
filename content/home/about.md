@@ -4,6 +4,8 @@ editor_options:
     wrap: 72
 ---
 
++++
+
 # About/Biography widget.
 
 widget = "about" active = true date = 2016-04-20T00:00:00
@@ -13,20 +15,32 @@ widget = "about" active = true date = 2016-04-20T00:00:00
 weight = 1
 
 # List your academic interests.
-
-\[interests\] interests = \[ "Statistical modelling", "Missing Value
-Treatment", "Variable selection", "SIR", "Bootstrap", "Extreme Value
-Theory", "Bayesian Statistics", "PLS", "Machine Learning", "Teaching",
-"Climbing and Mountaineering" \]
+[interests]
+  interests = [
+    "Statistical modelling",
+    "Missing Value Treatment",
+    "Variable selection",
+    "SIR",
+    "Bootstrap",
+    "Extreme Value Theory",
+    "Bayesian Statistics",
+    "PLS",
+    "Machine Learning",
+    "Teaching"
+  ]
 
 # List your qualifications (such as academic degrees).
 
-\[\[education.courses\]\] course = "PhD in Biostatistics" institution =
-"Université de Bordeaux" year = 2019
+[education.courses]
+    course = "PhD in Biostatistics"
+    institution ="Université de Bordeaux" year = 2019
 
-\[\[education.courses\]\] course = "Research Master, Applied Mathematics
-for Image and Signal Processing" institution = "CentraleSupelec and
-Paris-Sud University" year = 2015
+[education.courses]
+    course = "Research Master, Applied Mathematics for Image and Signal Processing"
+    institution = "CentraleSupelec and Paris-Sud University"
+    year = 2015
+
++++
 
 # Biography
 
