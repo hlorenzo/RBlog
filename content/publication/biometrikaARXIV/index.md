@@ -1,10 +1,10 @@
 +++
-title = "Advanced topics in Sliced Inverse Regression"
-date = 2021-01-14T00:00:00
+title = "Shrinkage for Extreme Partial Least Squares"
+date = 2023-10-20T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["S Girard", "H Lorenzo", "J Saracco"]
+authors = ["J Arbel",S Girard", "H Lorenzo"]
 
 # Publication type.
 # Legend:
@@ -18,11 +18,11 @@ authors = ["S Girard", "H Lorenzo", "J Saracco"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "to appear in Journal of Multivariate Analysis"
-# publication_short = "In arXiv:1901.04380"
+# publication = "to appear in Journal of Multivariate Analysis"
+publication_short = "In hal-04251783"
 
 # Abstract and optional shortened version.
-abstract = "Since its introduction in the early 90’s, the Sliced Inverse Regression (SIR) methodology has evolved adapting to increasingly complex data sets in contexts combining linear dimension reduction with non linear regression. The assumption of dependence of the response variable with respect to only a few linear combinations of the covariates makes it appealing for many computational and real data application aspects. This work proposes an overview of the most active research directions in SIR modeling from multivariate regression models to regularization and variable selection."
+abstract = "This research focuses on dimension-reduction techniques for modeling conditional extreme values. Specifically, we investigate the idea that extreme values of a response variable can be explained by nonlinear functions derived from linear projections of an input random vector. In this context, the estimation of projection directions is examined, as approached by the Extreme Partial Least Squares (EPLS) method--an adaptation of the original Partial Least Squares (PLS) method tailored to the extreme-value framework. Further, a novel interpretation of EPLS directions as maximum likelihood estimators is introduced, utilizing the von Mises-Fisher distribution applied to hyperballs. The dimension reduction process is enhanced through the Bayesian paradigm, enabling the incorporation of prior information into the projection direction estimation. The maximum a posteriori estimator is derived in two specific cases, elucidating it as a regularization or shrinkage of the EPLS estimator. We also establish its asymptotic behavior as the sample size approaches infinity. A simulation data study is conducted in order to assess the practical utility of our proposed method. This clearly demonstrates its effectiveness even in moderate data problems within high-dimensional settings. Furthermore, we provide an illustrative example of the method's applicability using French farm income data, highlighting its efficacy in real-world scenarios."
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -40,8 +40,8 @@ selected = true
 tags = []
 
 # Links (optional).
-url_pdf = "https://hal.inria.fr/hal-03367798/document"
-url_source = "https://hal.inria.fr/hal-03367798/document"
+url_pdf = "https://hal.science/hal-04251783/file/SEPALS_Archive.pdf"
+url_source = "https://hal.science/hal-04251783"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
@@ -64,4 +64,4 @@ math = true
   focal_point = ""
 +++
 
-Since its introduction in the early 90’s, the Sliced Inverse Regression (SIR) methodology has evolved adapting to increasingly complex data sets in contexts combining linear dimension reduction with non linear regression. The assumption of dependence of the response variable with respect to only a few linear combinations of the covariates makes it appealing for many computational and real data application aspects. This work proposes an overview of the most active research directions in SIR modeling from multivariate regression models to regularization and variable selection.
+This research focuses on dimension-reduction techniques for modeling conditional extreme values. Specifically, we investigate the idea that extreme values of a response variable can be explained by nonlinear functions derived from linear projections of an input random vector. In this context, the estimation of projection directions is examined, as approached by the Extreme Partial Least Squares (EPLS) method--an adaptation of the original Partial Least Squares (PLS) method tailored to the extreme-value framework.
