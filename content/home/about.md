@@ -12,7 +12,6 @@ active = true
 date = 2016-04-20T00:00:00
 
 # Order that this section will appear in.
-
 weight = 1
 
 # List your academic interests.
@@ -31,7 +30,6 @@ weight = 1
   ]
 
 # List your qualifications (such as academic degrees).
-
 [education.courses]
     course = "PhD in Biostatistics"
     institution ="Université de Bordeaux" year = 2019
