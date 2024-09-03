@@ -23,12 +23,12 @@ weight = 3
   ]
 
 # List your qualifications (such as academic degrees).
-[education.courses]
+[[education.courses]]
     course = "PhD in Biostatistics"
     institution ="Université de Bordeaux"
     year = 2019
 
-[education.courses]
+[[education.courses]]
     course = "Research Master, Applied Mathematics for Image and Signal Processing"
     institution = "CentraleSupelec and Paris-Sud University"
     year = 2015
