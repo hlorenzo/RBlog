@@ -25,7 +25,8 @@ weight = 3
 # List your qualifications (such as academic degrees).
 [education.courses]
     course = "PhD in Biostatistics"
-    institution ="Université de Bordeaux" year = 2019
+    institution ="Université de Bordeaux"
+    year = 2019
 
 [education.courses]
     course = "Research Master, Applied Mathematics for Image and Signal Processing"
