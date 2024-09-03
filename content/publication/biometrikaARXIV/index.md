@@ -1,6 +1,6 @@
 +++
 title = "Shrinkage for Extreme Partial Least Squares"
-date = 2023-10-20T00:00:00
+date = 2024-09-26T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
