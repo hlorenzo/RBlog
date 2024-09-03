@@ -42,7 +42,7 @@ weight = 1
 +++
 
 # Biography
-I am a Associate Professor at Aix-Marseille University (**AMU**). I
+I am an Associate Professor at Aix-Marseille University (**AMU**). I
 teach for all university degrees at the **AMU**. My reserches are
 performed in the Statistical group of the [**ALEA
 team**](https://www.i2m.univ-amu.fr/la-recherche/groupes-scientifiques/groupe-mathematiques-de-laleatoire-alea/equipe-statistique-sta/),
