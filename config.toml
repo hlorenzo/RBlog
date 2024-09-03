@@ -56,7 +56,7 @@ enableGitInfo = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Aix-Marseille University", url = "" } ]
+  organizations = [ { name = "Aix-Marseille University", url = "https://www.univ-amu.fr/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
@@ -291,7 +291,7 @@ enableGitInfo = false
 [[menu.main]]
   name = "Publications"
   url = "#publications"
-  weight = 3
+  weight = 2
 
 #[[menu.main]]
 #  name = "Posts"
@@ -301,7 +301,7 @@ enableGitInfo = false
 [[menu.main]]
   name = "Talks and Posters"
   url = "#talks"
-  weight = 4
+  weight = 3
 
 #[[menu.main]]
 #  name = "Projects"
@@ -311,12 +311,12 @@ enableGitInfo = false
 [[menu.main]]
   name = "Teaching"
   url = "#teaching"
-  weight = 5
+  weight = 4
 
 [[menu.main]]
   name = "Experience"
   url = "#experience"
-  weight = 7
+  weight = 5
 
 
 # Link to a PDF of your resume/CV from the menu.
@@ -324,7 +324,7 @@ enableGitInfo = false
 [[menu.main]]
   name = "CV"
   url = "/pdf/cv_universitaire.pdf"
-  weight = 9
+  weight = 6
 
 # Search.
 [params.search]
