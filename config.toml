@@ -47,6 +47,10 @@ enableGitInfo = false
   fractions = true  # `false` disables smart fractions (e.g. 5/12 formatted as a fraction).
   smartypants = true  # `false` disables all smart punctuation substitutions (e.g. smart quotes, dashes, fractions).
 
+[params.author]
+  name = 'hlorenzo'               # optional
+  email = 'hadrien.lorenzo@univ-amu.fr'  # optional
+
 [params]
   # AUTHOR SETUP
 
@@ -63,7 +67,7 @@ enableGitInfo = false
 
   # Details for the Contact Widget
   email = "hadrien.lorenzo@univ-amu.fr"
-  address = "3 Place Victor Hugo, Aix-Marseille University, I2M, Marseille, France"
+  address = "3 Place Victor Hugo, Aix Marseille Université, I2M, Marseille, France"
   phone = ""
   telegram = ""
   keybase = ""  # Your keybase.io username.
