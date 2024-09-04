@@ -15,7 +15,7 @@ authors = ["J Arbel","S Girard", "H Lorenzo"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "to appear in Statistics and Computing"

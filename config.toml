@@ -52,11 +52,11 @@ enableGitInfo = false
 
   # Your details.
   name = "Hadrien Lorenzo"
-  role = "Associate Professor at Aix-Marseille University"
+  role = "Associate Professor"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Aix-Marseille University", url = "https://www.univ-amu.fr/" } ]
+  organizations = [ { name = "Aix Marseille Université", url = "https://www.univ-amu.fr/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
